@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="pt-BR"><HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>TabNet Win32 3.3:  &Oacute;bitos por Causas Externas - Brasil</TITLE>
+<LINK REL="stylesheet" HREF="/TABNET/tabnet2.css" TYPE="text/css"><!-- com a opção JCSS -->
+<LINK REL="stylesheet" HREF="/tabnet/tabnetp2.css" MEDIA="print"  TYPE="text/css"><!-- com a opção JCSSP -->
+</HEAD>
+<BODY>
+ <div name="governo" class="todalargura">
+ <div class="testeira" cellspacing="0" cellpadding="0">
+   <div class="Escondido" style="background-color: #ffcc00;">
+      <div>
+         <a href="http://www.saude.gov.br" target="_blank">
+            <img alt="Ministério da Saúde" src="/cgi/imagem/principal_r1_c1_res.gif" height="21" id="img1" />
+         </a>
+     </div>
+ </div>
+ <div class="testeira" cellspacing="0" cellpadding="0">
+    <div class="info_saude">
+         <a href="/tabnet/tabnet.htm" alt="Informações de Saúde" title="Informações de Saúde">Informa&ccedil;&otilde;es de Sa&uacute;de</a>
+   </div>
+      <div class="marca_tabnet">
+       <p>DATASUS<span>&nbsp;&nbsp;Tecnologia da Informa&ccedil;&atilde;o a Servi&ccedil;o do SUS<a href="http://www.datasus.gov.br" alt="MS/SE/Datasus" title="MS/SE/Datasus"></a></span></p>
+   </div>
+        <div class="ajuda">
+          <a href="/tabnet/tabdescr.htm">Ajuda</a>
+      </div>
+           <div class="notific">
+        <a href="sim/Obitos_Causas_Ext_1996_2012.pdf">Notas T&eacute;cnicas</a></p>
+   </div>       <div class="datasus">
+       <p>DATASUS</p>
+   </div>
+   </div>
+<TABLE CLASS="tabdados" ALIGN="CENTER">
+<COLGROUP>
+<COL ALIGN="LEFT" VALIGN="TOP">
+<COLGROUP>
+<COL SPAN=47 ALIGN="RIGHT" VALIGN="TOP">
+<THEAD>
+<TR CLASS="cabtabela">
+<TD COLSPAN=48>
+<H1 CLASS="Nivel0"> &Oacute;bitos por Causas Externas - Brasil</H1>
+<b>&Oacute;bitos p/Resid&ecirc;nc por Ano do &Oacute;bito segundo Unidade da Federa&ccedil;&atilde;o</b><br>
+<b>Grande Grupo CID10:</b> X60-X84 Les&otilde;es autoprovocadas voluntariamente<BR>
+<b>Per&iacute;odo:</b> 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015<TR VALIGN="BOTTOM">
+<TH CLASS="cabesquerdo">Unidade da Federa&ccedil;&atilde;o
+<TH CLASS="cabmeio">2015
+<TH CLASS="cabmeio">2016
+<TH CLASS="cabmeio">2017
+<TH CLASS="cabmeio">2018
+<TH CLASS="cabmeio">2019
+<TH CLASS="cabmeio">2020
+<TH CLASS="cabmeio">2021
+<TH CLASS="cabmeio">2022
+<TH CLASS="cabmeio">2023
+<TH CLASS="cabdireito">Total
+</THEAD>
+<TFOOT>
+<TR VALIGN="BOTTOM">
+<TD CLASS="rodape" COLSPAN=48>
+<div class="rodape_htm">
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM<br><br>
+ <b>Notas</b>:
+ <ol>
+ <li>Dados finais disponíveis até 2024 e atualizados em 02/12/2025.
+ <li>Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "<a href="sim/Consolida_Sim_2011.pdf">Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011</a>".
+ <li>No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ <li>No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ </ol>
+</div>
+&nbsp;
+</TFOOT>
+<TBODY VALIGN="BOTTOM">
+<TR CLASS="separador" align="right">
+<TD align="left"> TOTAL
+<TD>11.178<TD>11.433<TD>12.495<TD>12.733<TD>13.520<TD>13.835<TD>15.499<TD>16.462<TD>17.002<TD>124.157
+<TR align="right">
+<TD ALIGN=LEFT>11 Rond&ocirc;nia
+<TD>109<TD>103<TD>113<TD>125<TD>140<TD>139<TD>145<TD>150<TD>156<TD>1.180
+<TR align="right">
+<TD ALIGN=LEFT>12 Acre
+<TD>39<TD>56<TD>64<TD>59<TD>72<TD>72<TD>70<TD>81<TD>118<TD>631
+<TR align="right">
+<TD ALIGN=LEFT>13 Amazonas
+<TD>263<TD>194<TD>207<TD>234<TD>253<TD>313<TD>297<TD>297<TD>339<TD>2.397
+<TR align="right">
+<TD ALIGN=LEFT>14 Roraima
+<TD>52<TD>59<TD>50<TD>37<TD>50<TD>36<TD>69<TD>55<TD>63<TD>471
+<TR align="right">
+<TD ALIGN=LEFT>15 Par&aacute;
+<TD>266<TD>277<TD>301<TD>350<TD>348<TD>391<TD>398<TD>499<TD>526<TD>3.356
+<TR align="right">
+<TD ALIGN=LEFT>16 Amap&aacute;
+<TD>53<TD>36<TD>46<TD>62<TD>61<TD>51<TD>63<TD>81<TD>73<TD>526
+<TR align="right">
+<TD ALIGN=LEFT>17 Tocantins
+<TD>99<TD>101<TD>115<TD>124<TD>134<TD>117<TD>167<TD>149<TD>163<TD>1.169
+<TR align="right">
+<TD ALIGN=LEFT>21 Maranh&atilde;o
+<TD>280<TD>294<TD>318<TD>313<TD>334<TD>341<TD>386<TD>395<TD>460<TD>3.121
+<TR align="right">
+<TD ALIGN=LEFT>22 Piau&iacute;
+<TD>271<TD>321<TD>317<TD>331<TD>328<TD>313<TD>376<TD>364<TD>371<TD>2.992
+<TR align="right">
+<TD ALIGN=LEFT>23 Cear&aacute;
+<TD>565<TD>590<TD>644<TD>655<TD>628<TD>606<TD>823<TD>790<TD>799<TD>6.100
+<TR align="right">
+<TD ALIGN=LEFT>24 Rio Grande do Norte
+<TD>156<TD>181<TD>180<TD>196<TD>204<TD>235<TD>254<TD>238<TD>283<TD>1.927
+<TR align="right">
+<TD ALIGN=LEFT>25 Para&iacute;ba
+<TD>221<TD>181<TD>250<TD>237<TD>251<TD>258<TD>280<TD>328<TD>367<TD>2.373
+<TR align="right">
+<TD ALIGN=LEFT>26 Pernambuco
+<TD>308<TD>396<TD>438<TD>430<TD>443<TD>451<TD>546<TD>488<TD>613<TD>4.113
+<TR align="right">
+<TD ALIGN=LEFT>27 Alagoas
+<TD>116<TD>112<TD>104<TD>137<TD>129<TD>168<TD>158<TD>193<TD>187<TD>1.304
+<TR align="right">
+<TD ALIGN=LEFT>28 Sergipe
+<TD>120<TD>115<TD>127<TD>134<TD>116<TD>130<TD>132<TD>162<TD>154<TD>1.190
+<TR align="right">
+<TD ALIGN=LEFT>29 Bahia
+<TD>503<TD>532<TD>603<TD>563<TD>649<TD>737<TD>837<TD>879<TD>917<TD>6.220
+<TR align="right">
+<TD ALIGN=LEFT>31 Minas Gerais
+<TD>1.303<TD>1.302<TD>1.515<TD>1.530<TD>1.732<TD>1.647<TD>1.800<TD>2.048<TD>1.996<TD>14.873
+<TR align="right">
+<TD ALIGN=LEFT>32 Esp&iacute;rito Santo
+<TD>189<TD>175<TD>207<TD>239<TD>248<TD>251<TD>259<TD>238<TD>300<TD>2.106
+<TR align="right">
+<TD ALIGN=LEFT>33 Rio de Janeiro
+<TD>531<TD>573<TD>607<TD>699<TD>572<TD>789<TD>903<TD>813<TD>908<TD>6.395
+<TR align="right">
+<TD ALIGN=LEFT>35 S&atilde;o Paulo
+<TD>2.300<TD>2.199<TD>2.306<TD>2.207<TD>2.378<TD>2.359<TD>2.645<TD>2.923<TD>2.787<TD>22.104
+<TR align="right">
+<TD ALIGN=LEFT>41 Paran&aacute;
+<TD>716<TD>760<TD>774<TD>915<TD>944<TD>935<TD>1.106<TD>1.188<TD>1.143<TD>8.481
+<TR align="right">
+<TD ALIGN=LEFT>42 Santa Catarina
+<TD>637<TD>674<TD>739<TD>735<TD>798<TD>778<TD>856<TD>938<TD>964<TD>7.119
+<TR align="right">
+<TD ALIGN=LEFT>43 Rio Grande do Sul
+<TD>1.141<TD>1.168<TD>1.349<TD>1.241<TD>1.425<TD>1.419<TD>1.517<TD>1.571<TD>1.662<TD>12.493
+<TR align="right">
+<TD ALIGN=LEFT>50 Mato Grosso do Sul
+<TD>230<TD>223<TD>259<TD>268<TD>263<TD>244<TD>305<TD>328<TD>343<TD>2.463
+<TR align="right">
+<TD ALIGN=LEFT>51 Mato Grosso
+<TD>145<TD>178<TD>197<TD>226<TD>241<TD>261<TD>264<TD>302<TD>319<TD>2.133
+<TR align="right">
+<TD ALIGN=LEFT>52 Goi&aacute;s
+<TD>435<TD>481<TD>497<TD>499<TD>580<TD>596<TD>653<TD>712<TD>711<TD>5.164
+<TR align="right">
+<TD ALIGN=LEFT>53 Distrito Federal
+<TD>130<TD>152<TD>168<TD>187<TD>199<TD>198<TD>190<TD>252<TD>280<TD>1.756
+</TABLE>
+<BR>
+</TABLE>
+<BR><BR>
+<DIV CLASS="NIVEL2">
+<table width=60% cellpadding=1 cellspacing=2 align=center border=0 class="escondido">
+<TR>
+<td class="botao_opcao" style="TEXT-ALIGN:CENTER" ALIGN="CENTER"><A HREF=/csv/sim_cnv_ext10uf232308179_64_45_136.csv>Copia como .CSV</A>
+<td class="botao_opcao" style="TEXT-ALIGN:CENTER" ALIGN="CENTER"><A HREF=/csv/sim_cnv_ext10uf232308179_64_45_136.tab>Copia para TabWin</A>
+</TR>
+</table>
+<BR><BR>
+ <p>
+ <p>
+</DIV>
+</BODY>
+<!--
+<TABELA>
+Planilha=
+Titulo=Óbitos por Causas Externas - Brasil
+Def=sim/cnv/ext10uf.def
+Varmunic=
+Linha=Unidade_da_Federação
+Coluna=Ano_do_Óbito
+Incremento=Óbitos_p/Residênc
+SGrande_Grupo_CID10=3
+Periodo=15,16,17,18,19,20,21,22,23
+</TABELA>
+-->
+</HTML>

@@ -1,0 +1,159 @@
+{
+ "facts": [
+  {
+   "claim": "The CPI das Bets rejected Senator Soraya Thronicke's final report on 12 June 2025, by 4 votes against to 3 in favor",
+   "value": "Rejected 4x3 on 2025-06-12",
+   "period": "2025-06-12",
+   "publication_date": "2025-06-12",
+   "source_name": "Senado Notícias (Agência Senado)",
+   "source_url": "https://www12.senado.leg.br/noticias/materias/2025/06/12/cpi-das-bets-rejeita-relatorio-final",
+   "quote": "Foi a primeira vez, nos últimos dez anos, que uma CPI do Senado teve o relatório rejeitado. (Report rejected with 4 votes against, 3 in favor, on Thursday, 12 June 2025.)",
+   "confidence": "high",
+   "notes": "Senators who voted against, per Senado/CNN coverage: Angelo Coronel (PSD-BA), Eduardo Gomes (PL-TO), Efraim Filho (União-PB) and Professora Dorinha Seabra (União-TO). Corroborated by CNN Brasil: https://www.cnnbrasil.com.br/politica/relatorio-da-cpi-das-bets-e-rejeitado-por-4-votos-a-3/"
+  },
+  {
+   "claim": "The rejection was the first time in the last ten years that a Senate CPI had its final report rejected",
+   "value": "First Senate CPI report rejected in ~10 years",
+   "period": "2015-2025",
+   "publication_date": "2025-06-12",
+   "source_name": "Senado Notícias (Agência Senado)",
+   "source_url": "https://www12.senado.leg.br/noticias/materias/2025/06/12/cpi-das-bets-rejeita-relatorio-final",
+   "quote": "Foi a primeira vez, nos últimos dez anos, que uma CPI do Senado teve o relatório rejeitado.",
+   "confidence": "high",
+   "notes": "Exact sentence from the Senate's own news agency article. Seed claim confirmed."
+  },
+  {
+   "claim": "Thronicke's rejected report recommended indicting 16 people (including influencers Virgínia Fonseca and Deolane Bezerra) and presented 20 bill proposals, including banning slot-machine-like games (Jogo do Tigrinho), banning CadÚnico beneficiaries from betting, a national self-exclusion registry and criminal penalties for deceptive betting advertising",
+   "value": "16 indictment requests + 20 bill proposals",
+   "period": "2025-06",
+   "publication_date": "2025-06-12",
+   "source_name": "Senado Notícias (Agência Senado)",
+   "source_url": "https://www12.senado.leg.br/noticias/materias/2025/06/12/cpi-das-bets-rejeita-relatorio-final",
+   "quote": "O documento acusava 16 pessoas de cometer crimes (indiciamento), entre elas influenciadores digitais como Virgínia Fonseca e Deolane Bezerra. O texto ainda apresentava 20 projetos de lei para conter os malefícios causados pelas apostas virtuais.",
+   "confidence": "high",
+   "notes": "With the rejection, the CPI ended without any approved measures; Thronicke said she would forward the evidence to the Federal Police, PGR, STF and President Lula."
+  },
+  {
+   "claim": "PL 5473/2025, by Senator Renan Calheiros (MDB-AL), presented 29 October 2025, originally proposed doubling the betting (quota fixa) tax on GGR from 12% to 24%",
+   "value": "Original proposal: 12% -> 24% of GGR",
+   "period": "2025-10-29",
+   "publication_date": "2025-10-29",
+   "source_name": "Senado Federal - Atividade Legislativa (PL 5473/2025) + BNLData",
+   "source_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171259",
+   "quote": "O projeto original, de autoria do presidente da CAE, Renan Calheiros (MDB-AL), dobra de 12% para 24% a cobrança sobre as bets e eleva a CSLL de 9% para 15% para fintechs. (BNLData: 'Renan Calheiros apresenta projeto de lei que dobra a tributação das apostas online', https://bnldata.com.br/renan-calheiros-apresenta-projeto-de-lei-que-dobra-a-tributacao-das-apostas-online/)",
+   "confidence": "high",
+   "notes": "Author, date and ementa confirmed on the Senate bill page; the 12%->24% original rate confirmed by multiple outlets (BNLData, InfoMoney). Seed confirmed."
+  },
+  {
+   "claim": "The Senate's Economic Affairs Committee (CAE) approved PL 5473/2025 on 2 December 2025 (21 votes to 1, rapporteur Eduardo Braga) with a substitute replacing the immediate 24% with staggered GGR rates: 15% in 2026-2027 and 18% from 2028",
+   "value": "CAE substitute: 15% (2026-2027), 18% (2028+); approved 21x1",
+   "period": "2025-12-02",
+   "publication_date": "2025-12-02",
+   "source_name": "Senado Notícias (Agência Senado)",
+   "source_url": "https://www12.senado.leg.br/noticias/materias/2025/12/02/cae-aprova-aumento-da-tributacao-para-bets-e-fintechs",
+   "quote": "A alíquota passa dos atuais 12% para 15%, em 2026 e 2027, e para 18% em 2028.",
+   "confidence": "high",
+   "notes": "Vote count 21x1 per Agência Brasil (https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/comissao-do-senado-aprova-aumento-da-taxacao-de-fintechs-e-bets). CAE decision was 'terminativa', but the PL party filed a recurso forcing a Senate plenary vote."
+  },
+  {
+   "claim": "Status of PL 5473/2025 as of mid-2026: still pending in the Senate; after the recurso, the bill awaits inclusion in the plenary agenda; the Senate tramitation page's latest recorded event (22 December 2025) is 'AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO', with no plenary vote, no passage to the Câmara and no sanction recorded",
+   "value": "Em tramitação; awaiting Senate plenary agenda (latest event 2025-12-22)",
+   "period": "as of 2026-07-07",
+   "publication_date": "2025-12-22",
+   "source_name": "Senado Federal - Atividade Legislativa (PL 5473/2025)",
+   "source_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171259",
+   "quote": "AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO (last tramitation entry, 22/12/2025); status 'Em tramitação'.",
+   "confidence": "medium",
+   "notes": "Verified by fetching the Senate bill page on 2026-07-07; no 2026 events were shown, and no news of a 2026 plenary vote was found. A claim circulating that PL 5473 became 'Lei 15.367/2026' is FALSE: Lei 15.367/2026 originated from PL 5874/2025 (creation of MEC posts), per Câmara ficha https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2585316"
+  },
+  {
+   "claim": "Rate context (seed outdated): Lei 14.790/2023 set the operators' contribution at 12% of GGR; MP 1303/2025, which would have raised it to 18%, lapsed (caducou) in October 2025 after the Câmara voted 251-193 to withdraw it from the agenda; the increase that actually passed was Lei Complementar 224/2025 (from PLP 128/2025, Dep. Mauro Benevides Filho), sanctioned 26 December 2025, raising GGR rates to 13% in 2026, 14% in 2027 and 15% in 2028",
+   "value": "In force mid-2026: 13% of GGR (LC 224/2025); schedule 13/14/15% for 2026/2027/2028",
+   "period": "2025-10 to 2028",
+   "publication_date": "2026-01-07",
+   "source_name": "Maia Yoshiyasu Advogados (analysis of LC 224/2025) + Senado Notícias + Câmara Notícias",
+   "source_url": "https://mylaw.com.br/2026/01/07/lc-no-224-2025-e-decreto-no-12-202-2025-tributacao-de-apostas-de-quota-fixa-e-responsabilidade-solidaria/",
+   "quote": "a elevação gradual da alíquota incidente sobre o GGR, que passa dos atuais 12% para 13% em 2026, 14% em 2027 e 15% em 2028. (Câmara approval of PLP 128/2025, 2025-12-17: 'passarão dos atuais 12% para 13% em 2026 e 14% em 2027, chegando a 15% em 2028' - https://www.camara.leg.br/noticias/1233924-camara-aprova-projeto-que-reduz-beneficios-fiscais-federais-e-aumenta-tributacao-de-bets-e-fintechs/)",
+   "confidence": "high",
+   "notes": "LC 224/2025 sanction on 2025-12-26 per Senado Notícias (https://www12.senado.leg.br/noticias/materias/2025/12/29/nova-lei-eleva-impostos-sobre-bets-e-impoe-limite-para-beneficios-fiscais). Half of the increase goes to social security, half to health. MP 1303 lapse: https://www.camara.leg.br/noticias/1209479-MP-SOBRE-TRIBUTACAO-DE-INVESTIMENTOS-E-RETIRADA-DE-PAUTA-E-PERDE-A-VALIDADE. So in July 2026 the effective rate is 13%, not 12%; PL 5473 (15/18%) would raise it further if approved."
+  },
+  {
+   "claim": "The federal centralized self-exclusion platform (Plataforma Centralizada de Autoexclusão, SPA/Ministério da Fazenda) received more than 217,000 requests in its first 40 days; 37% cited 'Perda de controle sobre o jogo - saúde mental'; 73% chose indefinite exclusion and 19% one-year blocking",
+   "value": "217,000+ requests in first 40 days; 37% loss of control/mental health",
+   "period": "2025-12-12 to ~2026-01-21",
+   "publication_date": "2026-01-22",
+   "source_name": "Ministério da Fazenda (SPA) via Gazeta do Povo and Metrópoles; original release on gov.br/fazenda",
+   "source_url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/janeiro/em-um-ano-de-mercado-regulado-spa-registra-mais-de-25-mil-sites-ilegais-bloqueados",
+   "quote": "A Secretaria de Prêmios e Apostas (SPA), do Ministério da Fazenda, já recebeu mais de 217 mil pedidos de brasileiros para excluir voluntariamente seus cadastros a sites de apostas em pouco mais de um mês. ... 37% dos solicitantes citaram 'Perda de controle sobre o jogo – saúde mental'; 73% optaram por autoexclusão por tempo indeterminado e 19% escolheram bloqueio por um ano. (Gazeta do Povo, 22/01/2026)",
+   "confidence": "high",
+   "notes": "gov.br blocks automated fetching (returns 'Conteúdo Restrito'), so exact quotes were transcribed from Gazeta do Povo (https://www.gazetadopovo.com.br/economia/plataforma-autoexclusao-contas-bets-217-mil-brasileiros-cadastros/) and Metrópoles (https://www.metropoles.com/brasil/economia-br/mais-de-217-mil-pessoas-pediram-autoexclusao-de-plataformas-de-bets), both citing the SPA balance. The gov.br article states the system went live on 12 December 2025 ('O sistema foi colocado no ar em 12 de dezembro'). Seed confirmed."
+  },
+  {
+   "claim": "Latest official cumulative self-exclusion total (seed outdated): more than 574,000 people had used the platform by late May 2026; 41% (about 207,000) cited loss of control over gambling / mental health impacts as the main reason; 69% chose indefinite blocking",
+   "value": "574,000+ requests as of 2026-05-26; 41% loss of control/mental health",
+   "period": "2025-12 to 2026-05",
+   "publication_date": "2026-05-26",
+   "source_name": "Ministério da Fazenda/SPA and Ministério da Saúde, via Agência Brasil (reproduced by Paraíba Online); official release on gov.br/fazenda (May 2026)",
+   "source_url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/maio/mais-de-meio-milhao-de-pessoas-ja-utilizaram-a-plataforma-centralizada-de-autoexclusao",
+   "quote": "Mais de 574 mil pessoas já utilizaram a Plataforma Centralizada de Autoexclusão, criada pelo governo federal. ... 207 mil usuários (41%) apontaram perda de controle sobre as apostas ou impactos na saúde mental como principal razão. Outros motivos: uso de dados pelas plataformas 18%, problemas financeiros 12%. 69% optaram por bloqueio sem prazo para encerramento.",
+   "confidence": "high",
+   "notes": "gov.br page blocked to automated fetch; figures transcribed from the Agência Brasil story of 2026-05-26 reproduced at https://paraibaonline.com.br/brasil/2026/05/26/mais-de-meio-milhao-de-pessoas-bloquearam-acesso-a-sites-de-apostas/ (Agência Brasil itself temporarily offline due to electoral legislation). Interim data point: 326,000 requests as of 2026-03-05 per InfoMoney (https://www.infomoney.com.br/esportes/326-mil-ja-pediram-autoexclusao-em-contas-de-bets-perda-de-controle-e-maior-causa/)."
+  },
+  {
+   "claim": "June 2026 media reports put the cumulative total at more than 603,000 voluntary blocking requests in six months of operation, still under 3% of the ~25 million active betting accounts",
+   "value": "603,000+ requests in six months (media, June 2026)",
+   "period": "2025-12 to 2026-06",
+   "publication_date": "2026-06",
+   "source_name": "O Correio (ocorreio.com.br)",
+   "source_url": "https://ocorreio.com.br/trends/mais-de-600-mil-brasileiros-ja-utilizaram-plataforma-de-autoexclusao-das-casas-de-apostas/",
+   "quote": "Em apenas seis meses de funcionamento, a plataforma nacional de autoexclusão das bets já recebeu mais de 603 mil pedidos de bloqueio voluntário... entre os usuários que informaram o motivo, 41% apontaram a perda de controle sobre as apostas ou impactos na saúde mental. (via search snippet)",
+   "confidence": "low",
+   "notes": "Could not fetch the full article (HTTP 403); figure comes from the search-result snippet of a single secondary outlet and no corresponding gov.br June release naming 603 mil was verified. Use the official 574k+ (May 2026) figure as the confirmed latest; treat 603k as unconfirmed."
+  },
+  {
+   "claim": "OHID (Office for Health Improvement and Disparities) estimated the annual economic cost of harmful gambling in England at approximately £1.05 to £1.77 billion: £412.9 million in excess direct financial cost to government plus £635 to £1,355.5 million in societal value of health impacts (2021-22 prices), and states this is likely an underestimate",
+   "value": "~£1.05-£1.77 billion per year (England, 2021-22 prices)",
+   "period": "2021-2022",
+   "publication_date": "2023-01-11 (last updated)",
+   "source_name": "GOV.UK / OHID - Gambling-related harms evidence review: summary",
+   "source_url": "https://www.gov.uk/government/publications/gambling-related-harms-evidence-review/gambling-related-harms-evidence-review-summary--2",
+   "quote": "Our 2023 economic analysis estimated that the annual excess direct financial cost to government associated with harmful gambling is equivalent to £412.9 million. It also shows that our estimate for the annual societal value of health impacts is equivalent to between £635 and £1,355.5 million (in 2021 to 2022 prices). This provides a combined estimate of approximately £1.05 to £1.77 billion.",
+   "confidence": "high",
+   "notes": "Seed range (~£1.0-1.8bn) confirmed. The earlier 2021 PHE/OHID landmark report estimated 'at least £1.27 billion a year' (2019-20): https://www.gov.uk/government/news/landmark-report-reveals-harms-associated-with-gambling-estimated-to-cost-society-at-least-1-27-billion-a-year. Full 2023 evidence update PDF: https://assets.publishing.service.gov.uk/media/63bc25b4d3bf7f262c5ad31f/The-economic-cost-of-gambling-related-harm-in-England_evidence-update-2023.pdf"
+  },
+  {
+   "claim": "UK 'whistle-to-whistle' ban: a voluntary industry ban introduced by the Industry Group for Responsible Gambling on 1 August 2019, prohibiting TV betting adverts during pre-watershed live sport from 5 minutes before the event starts until 5 minutes after it ends (excluding horse and dog racing, sponsorship, pitch-side hoardings, radio and social media)",
+   "value": "Voluntary W2W ban in effect since 2019-08-01",
+   "period": "2019-08-01 onwards",
+   "publication_date": "2024 (study)",
+   "source_name": "Addiction Research & Theory - 'How did the whistle-to-whistle ban affect gambling advertising on TV? A live football matching study' (open access via PMC)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11934951/",
+   "quote": "In August 2019, the industry group introduced a voluntary 'Whistle-to-Whistle' (W2W) ban during live sports programmes. ... The W2W ban was introduced on 1st August 2019. ... gambling advertising was not permitted to appear within five minutes of the match beginning, until 5 minutes after the match had ended.",
+   "confidence": "high",
+   "notes": "Also at https://www.tandfonline.com/doi/full/10.1080/16066359.2024.2355183. It is an industry self-regulation measure, not statute; the 2023 white paper acknowledged the 9pm watershed and W2W ban but said measures 'had not gone far enough' while leaving sports advertising largely to governing bodies' discretion."
+  },
+  {
+   "claim": "The UK Gambling Act review white paper 'High Stakes: Gambling Reform for the Digital Age' (CP 835, DCMS) was published on 27 April 2023, the biggest reform package since the Gambling Act 2005, including online slots stake limits, financial risk checks, and the proposal that became the statutory levy",
+   "value": "White paper published 2023-04-27 (CP 835)",
+   "period": "2023-04-27",
+   "publication_date": "2023-04-27",
+   "source_name": "GOV.UK / DCMS - High Stakes: Gambling Reform for the Digital Age",
+   "source_url": "https://assets.publishing.service.gov.uk/media/644923b5814c6600128d0723/1286-HH-E02769112-Gambling_White_Paper_Book_Accessible1.pdf",
+   "quote": "High Stakes: Gambling Reform for the Digital Age, April 2023, CP 835 (Department for Culture, Media and Sport). 'The White Paper was published on 27 April 2023.'",
+   "confidence": "high",
+   "notes": "Publication date corroborated by the Wiggin LLP White Paper Tracker (https://www.wiggin.co.uk/insight/the-gambling-act-review-white-paper-tracker/) and Bird & Bird analysis."
+  },
+  {
+   "claim": "The UK statutory gambling levy (Gambling Levy Regulations 2025) commenced in April 2025 (in force 6 April 2025), replacing voluntary industry contributions; in its first year it raised just under £120 million, ringfenced 20% to UKRI (research), 30% to OHID (prevention) and 50% to NHS England and the Scottish and Welsh governments (treatment)",
+   "value": "Levy in force from April 2025; ~£120m raised in year one; 20/30/50 split",
+   "period": "2025-04-06 to 2026-03",
+   "publication_date": "2025-12-18 (page), last updated 2026-03-26",
+   "source_name": "GOV.UK - Statutory gambling levy (policy paper/guidance)",
+   "source_url": "https://www.gov.uk/government/publications/statutory-gambling-levy",
+   "quote": "The statutory levy commenced in April 2025. ... This year the levy has raised just under £120 million, which will be ringfenced solely for research, prevention and treatment of gambling-related harm. 20% of levy funding will go to UK Research and Innovation (UKRI)... 30% of funding will go to the Office for Health Improvement and Disparities (OHID)... 50% of funding will go to NHS England, and Scottish and Welsh Governments.",
+   "confidence": "high",
+   "notes": "Seed figure of ~£100m was the ex-ante estimate (£90-100m for 2025/26, per the levy consultation response and Gambling Commission); the outturn reported on GOV.UK is just under £120 million. Regulations: The Gambling Levy Regulations 2025 (SI 2025/213), https://www.legislation.gov.uk/uksi/2025/213/pdfs/uksiem_20250213_en_001.pdf; commencement 6 April 2025 also per Gambling Commission guidance https://www.gamblingcommission.gov.uk/guidance/statutory-gambling-levy/statutory-levy-introduction"
+  }
+ ],
+ "summary": "All four seed clusters verified against primary sources, with two material updates. (1) CPI das Bets: confirmed — Soraya Thronicke's final report was rejected 4x3 on 2025-06-12, the first Senate CPI report rejected in ten years per Agência Senado; it proposed 16 indictments (incl. Virgínia Fonseca, Deolane Bezerra) and 20 bills (Tigrinho-style game ban, CadÚnico betting ban, national self-exclusion registry). (2) PL 5473/2025 (Renan Calheiros): original 12%->24% GGR confirmed; CAE approved a softer substitute (15% 2026-27, 18% 2028) on 2025-12-02 by 21x1 (rapporteur Eduardo Braga); as of mid-2026 it is STALLED awaiting Senate plenary (last event 2025-12-22). SEED OUTDATED on rate context: MP 1303/2025 (18%) lapsed in Oct 2025, but LC 224/2025 (from PLP 128/2025), sanctioned 2025-12-26, already raised the GGR contribution to 13% in 2026, 14% in 2027 and 15% in 2028 — so the effective rate in July 2026 is 13%, not 12%. A claim that PL 5473 became Lei 15.367/2026 is false (that law came from PL 5874/2025). (3) Self-exclusion: confirmed 217k+ requests in first 40 days (launch 2025-12-12), 37% citing loss of control/mental health, 73% indefinite blocking; SEED OUTDATED on totals — official gov.br/Fazenda May 2026 release reports 574k+ users with 41% (207k) citing loss of control/mental health; June 2026 media cite 603k+ (unconfirmed, low confidence). Note: gov.br and Agência Brasil block automated fetching (electoral-period restrictions), so exact wording was cross-transcribed from Gazeta do Povo, Metrópoles and an Agência Brasil reproduction. (4) UK: OHID 2023 estimate confirmed at ~£1.05-£1.77bn/year (England, 2021-22 prices: £412.9m direct government cost + £635-£1,355.5m health impacts), flagged as an underestimate; earlier 2021 landmark figure £1.27bn. Whistle-to-whistle: voluntary IGRC ban from 1 Aug 2019, ads barred 5 min before to 5 min after pre-watershed live sport. White paper 'High Stakes: Gambling Reform for the Digital Age' (CP 835) published 2023-04-27. Statutory levy commenced April 2025 and raised just under £120m in year one (seed's £100m was the ex-ante estimate), split 20% research / 30% prevention / 50% treatment."
+}

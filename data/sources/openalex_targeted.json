@@ -1,0 +1,660 @@
+{
+ "prevalence": [
+  {
+   "doi": "10.1111/j.1360-0443.2010.03300.x",
+   "year": 2010,
+   "cited": 1002,
+   "title": "Prevalence of comorbid disorders in problem and pathological gambling: systematic review and meta‐analysis of population surveys",
+   "authors": [
+    "Felicity Lorains",
+    "Sean Cowlishaw",
+    "Shane Thomas"
+   ],
+   "venue": "Addiction"
+  },
+  {
+   "doi": "10.1556/2006.5.2016.073",
+   "year": 2016,
+   "cited": 698,
+   "title": "Problem gambling worldwide: An update and systematic review of empirical research (2000–2015)",
+   "authors": [
+    "Filipa Calado",
+    "Mark D. Griffiths"
+   ],
+   "venue": "Journal of Behavioral Addictions"
+  },
+  {
+   "doi": "10.1007/s10899-016-9627-5",
+   "year": 2016,
+   "cited": 476,
+   "title": "Prevalence of Adolescent Problem Gambling: A Systematic Review of Recent Research",
+   "authors": [
+    "Filipa Calado",
+    "Joana Alexandre",
+    "Mark D. Griffiths"
+   ],
+   "venue": "Journal of Gambling Studies"
+  },
+  {
+   "doi": "10.1016/j.cpr.2003.09.005",
+   "year": 2004,
+   "cited": 471,
+   "title": "Role of culture in gambling and problem gambling",
+   "authors": [
+    "Namrata Raylu",
+    "Tian P. S. Oei"
+   ],
+   "venue": "Clinical Psychology Review"
+  },
+  {
+   "doi": "10.1177/0004867415575774",
+   "year": 2015,
+   "cited": 345,
+   "title": "Prevalence of psychiatric co-morbidity in treatment-seeking problem gamblers: A systematic review and meta-analysis",
+   "authors": [
+    "Nicki A. Dowling",
+    "Sean Cowlishaw",
+    "Alun C. Jackson"
+   ],
+   "venue": "Australian & New Zealand Journal of Psychiatry"
+  },
+  {
+   "doi": "10.2105/ajph.89.9.1369",
+   "year": 1999,
+   "cited": 1262,
+   "title": "Estimating the prevalence of disordered gambling behavior in the United States and Canada: a research synthesis.",
+   "authors": [
+    "Howard J. Shaffer",
+    "Matthew N. Hall",
+    "Joni Vander Bilt"
+   ],
+   "venue": "American Journal of Public Health"
+  },
+  {
+   "doi": "10.2105/ajph.88.7.1093",
+   "year": 1998,
+   "cited": 477,
+   "title": "Taking chances: problem gamblers and mental health disorders--results from the St. Louis Epidemiologic Catchment Area Study.",
+   "authors": [
+    "Renee M. Cunningham‐Williams",
+    "Linda B. Cottler",
+    "Wilson M. Compton"
+   ],
+   "venue": "American Journal of Public Health"
+  },
+  {
+   "doi": "10.1016/s0140-6736(10)62185-x",
+   "year": 2011,
+   "cited": 445,
+   "title": "Gambling disorders",
+   "authors": [
+    "David C. Hodgins",
+    "Jonathan N. Stea",
+    "Jon E. Grant"
+   ],
+   "venue": "The Lancet"
+  }
+ ],
+ "harm": [
+  {
+   "doi": "10.1186/s12889-016-2747-0",
+   "year": 2015,
+   "cited": 666,
+   "title": "Understanding gambling related harm: a proposed definition, conceptual framework, and taxonomy of harms",
+   "authors": [
+    "Erika Langham",
+    "Hannah Thorne",
+    "Matthew Browne"
+   ],
+   "venue": "BMC Public Health"
+  },
+  {
+   "doi": "10.11575/prism/9479",
+   "year": 2013,
+   "cited": 115,
+   "title": "Conceptual Framework of Harmful Gambling: An International Collaboration",
+   "authors": [
+    "Max Abbott",
+    "Per Binde",
+    "David C. Hodgins"
+   ],
+   "venue": "Libraries and Cultural Resources (University of Calgary)"
+  },
+  {
+   "doi": "10.1556/2006.2020.00024",
+   "year": 2020,
+   "cited": 91,
+   "title": "The Conceptual Framework of Harmful Gambling: A revised framework for understanding gambling harm",
+   "authors": [
+    "Margo Hilbrecht",
+    "David Baxter",
+    "Max Abbott"
+   ],
+   "venue": "Journal of Behavioral Addictions"
+  },
+  {
+   "doi": "10.1186/s12954-019-0284-8",
+   "year": 2019,
+   "cited": 78,
+   "title": "Women and gambling-related harm: a narrative literature review and implications for research, policy, and practice",
+   "authors": [
+    "Simone McCarthy",
+    "Samantha Thomas",
+    "Maria Bellringer"
+   ],
+   "venue": "Harm Reduction Journal"
+  },
+  {
+   "doi": "10.1016/j.puhe.2020.04.001",
+   "year": 2020,
+   "cited": 65,
+   "title": "Gambling and gambling-related harm: recent World Health Organization initiatives",
+   "authors": [
+    "Max Abbott"
+   ],
+   "venue": "Public Health"
+  },
+  {
+   "doi": "10.1016/s2468-2667(24)00167-1",
+   "year": 2024,
+   "cited": 180,
+   "title": "The Lancet Public Health Commission on gambling",
+   "authors": [
+    "Heather Wardle",
+    "Louisa Degenhardt",
+    "Virve Marionneau"
+   ],
+   "venue": "The Lancet Public Health"
+  },
+  {
+   "doi": "10.1016/s2468-2667(20)30289-9",
+   "year": 2021,
+   "cited": 52,
+   "title": "The Lancet Public Health Commission on gambling",
+   "authors": [
+    "Heather Wardle",
+    "Louisa Degenhardt",
+    "Audrey Ceschia"
+   ],
+   "venue": "The Lancet Public Health"
+  },
+  {
+   "doi": "10.1016/s2468-2667(21)00026-8",
+   "year": 2021,
+   "cited": 33,
+   "title": "Gambling among adolescents: an emerging public health problem",
+   "authors": [
+    "Richard Armitage"
+   ],
+   "venue": "The Lancet Public Health"
+  }
+ ],
+ "advertising": [
+  {
+   "doi": "10.1016/j.puhe.2022.11.019",
+   "year": 2023,
+   "cited": 91,
+   "title": "What is the evidence that advertising policies could have an impact on gambling-related harms? A systematic umbrella review of the literature",
+   "authors": [
+    "Ellen McGrane",
+    "Heather Wardle",
+    "Mark Clowes"
+   ],
+   "venue": "Public Health"
+  },
+  {
+   "doi": "10.3389/fpsyt.2021.583817",
+   "year": 2021,
+   "cited": 84,
+   "title": "Gambling Marketing Strategies and the Internet: What Do We Know? A Systematic Review",
+   "authors": [
+    "Morgane Guillou-Landréat",
+    "Karine Gallopel‐Morvan",
+    "Delphine Lever"
+   ],
+   "venue": "Frontiers in Psychiatry"
+  },
+  {
+   "doi": "10.1007/s40429-024-00560-4",
+   "year": 2024,
+   "cited": 25,
+   "title": "Gambling Operators’ Use of Advertising Strategies on Social Media and Their Effects: A Systematic Review",
+   "authors": [
+    "Johannes Singer",
+    "Andrea Wöhr",
+    "Steffen Otterbach"
+   ],
+   "venue": "Current Addiction Reports"
+  },
+  {
+   "doi": "10.5152/addicta.2022.21080",
+   "year": 2022,
+   "cited": 15,
+   "title": "Impact of Sports Betting Advertising on Gambling Behavior: A Systematic Review",
+   "authors": [
+    "Elizabeth A. Killick",
+    "Mark D. Griffiths"
+   ],
+   "venue": "Addicta The Turkish Journal on Addictions"
+  },
+  {
+   "doi": "10.22541/au.176556368.86960772/v1",
+   "year": 2025,
+   "cited": 0,
+   "title": "Taxation as Gambling Harm Reduction or UK Treasury Imperative?",
+   "authors": [
+    "David I. Norman"
+   ],
+   "venue": null
+  },
+  {
+   "doi": "10.1542/peds.2025-073040",
+   "year": 2026,
+   "cited": 0,
+   "title": "Mobile Gambling: Unexplored Risks to Children and Families",
+   "authors": [
+    "Jenny Radesky",
+    "Alexis Hiniker",
+    "Heidi M. Weeks"
+   ],
+   "venue": "PEDIATRICS"
+  },
+  {
+   "doi": "10.1186/s12954-018-0254-6",
+   "year": 2018,
+   "cited": 81,
+   "title": "Young people’s awareness of the timing and placement of gambling advertising on traditional and social media platforms: a study of 11–16-year-olds in Australia",
+   "authors": [
+    "Samantha Thomas",
+    "Amy Bestman",
+    "Hannah Pitt"
+   ],
+   "venue": "Harm Reduction Journal"
+  },
+  {
+   "doi": "10.1007/s10899-009-9120-5",
+   "year": 2009,
+   "cited": 79,
+   "title": "Wins, Winning and Winners: The Commercial Advertising of Lottery Gambling",
+   "authors": [
+    "John L. McMullan",
+    "Delthia E. Miller"
+   ],
+   "venue": "Journal of Gambling Studies"
+  },
+  {
+   "doi": "10.1186/s12954-019-0291-9",
+   "year": 2019,
+   "cited": 74,
+   "title": "Recall and awareness of gambling advertising and sponsorship in sport in the UK: a study of young people and adults",
+   "authors": [
+    "Natalie Djohari",
+    "Gavin Weston",
+    "Rebecca Cassidy"
+   ],
+   "venue": "Harm Reduction Journal"
+  },
+  {
+   "doi": "10.1080/14459795.2014.902489",
+   "year": 2014,
+   "cited": 72,
+   "title": "Adolescent exposure to gambling promotions during televised sport: an exploratory study of links with gambling intentions",
+   "authors": [
+    "Nerilee Hing",
+    "Peter Vitartas",
+    "Matthew Lamont"
+   ],
+   "venue": "International Gambling Studies"
+  },
+  {
+   "doi": "10.1186/s12889-016-3610-z",
+   "year": 2016,
+   "cited": 66,
+   "title": "Initiation, influence, and impact: adolescents and parents discuss the marketing of gambling products during Australian sporting matches",
+   "authors": [
+    "Hannah Pitt",
+    "Samantha Thomas",
+    "Amy Bestman"
+   ],
+   "venue": "BMC Public Health"
+  }
+ ],
+ "suicide": [
+  {
+   "doi": "10.1016/j.lanepe.2024.101127",
+   "year": 2024,
+   "cited": 12,
+   "title": "Association between gambling disorder and suicide mortality: a comparative cohort study using Norwegian health registry data",
+   "authors": [
+    "Joakim Hellumbråten Kristensen",
+    "Carl Michael Baravelli",
+    "Tony Leino"
+   ],
+   "venue": "The Lancet Regional Health - Europe"
+  },
+  {
+   "doi": "10.1177/14550725251380172",
+   "year": 2025,
+   "cited": 3,
+   "title": "Gambling Disorder and Increased Psychiatric Comorbidity: A Finnish Register-Based Study",
+   "authors": [
+    "Anne H. Salonen",
+    "Tiina Latvala",
+    "Miika Vuori"
+   ],
+   "venue": "Nordic Studies on Alcohol and Drugs"
+  },
+  {
+   "doi": "10.1016/j.jpsychires.2025.10.067",
+   "year": 2025,
+   "cited": 3,
+   "title": "Gambling disorder and suicide risk: A meta-epidemiology study",
+   "authors": [
+    "Liaoyao Wang",
+    "Xinyi Qin",
+    "Yuejie Lu"
+   ],
+   "venue": "Journal of Psychiatric Research"
+  },
+  {
+   "doi": "10.4415/ann_21_03_03",
+   "year": 2021,
+   "cited": 2,
+   "title": "Mortality risk in a population of patients treated for gambling disorders: results of a follow-up study.",
+   "authors": [
+    "Raimondo Maria Pavarin",
+    "Marco Domenicali",
+    "Silvia Marani"
+   ],
+   "venue": "PubMed"
+  },
+  {
+   "doi": "10.1192/bjo.2025.10867",
+   "year": 2025,
+   "cited": 1,
+   "title": "Gambling, suicide and mental health treatment utilisation in Wales: case–control, whole-population-based study",
+   "authors": [
+    "Matthew Jones",
+    "Pippa Boering",
+    "Kishan Patel"
+   ],
+   "venue": "BJPsych Open"
+  },
+  {
+   "doi": "10.1176/appi.ajp.158.9.1500",
+   "year": 2001,
+   "cited": 432,
+   "title": "Gender-Related Differences in the Characteristics of Problem Gamblers Using a Gambling Helpline",
+   "authors": [
+    "Marc N. Potenza",
+    "Marvin A. Steinberg",
+    "S. McLaughlin"
+   ],
+   "venue": "American Journal of Psychiatry"
+  },
+  {
+   "doi": "10.1097/00005053-200207000-00007",
+   "year": 2002,
+   "cited": 255,
+   "title": "SUICIDAL IDEATION AND SUICIDE ATTEMPTS IN TREATMENT-SEEKING PATHOLOGICAL GAMBLERS",
+   "authors": [
+    "Nancy M. Petry",
+    "Brian D. Kiluk"
+   ],
+   "venue": "The Journal of Nervous and Mental Disease"
+  },
+  {
+   "doi": "10.1556/2006.7.2018.112",
+   "year": 2018,
+   "cited": 165,
+   "title": "Gambling disorder, increased mortality, suicidality, and associated comorbidity: A longitudinal nationwide register study",
+   "authors": [
+    "Anna Karlsson",
+    "Anders Håkansson"
+   ],
+   "venue": "Journal of Behavioral Addictions"
+  },
+  {
+   "doi": "10.1177/070674379904400509",
+   "year": 1999,
+   "cited": 140,
+   "title": "Characteristics of Problem Gambling in a Canadian Context: A Preliminary Study Using a DSM-IV-Based Questionnaire",
+   "authors": [
+    "Carole Beaudoin",
+    "Brian J. Cox"
+   ],
+   "venue": "The Canadian Journal of Psychiatry"
+  },
+  {
+   "doi": "10.1023/a:1023016224147",
+   "year": 1998,
+   "cited": 126,
+   "title": "A Case Series of 44 Completed Gambling-Related Suicides",
+   "authors": [
+    "Alex Blaszczynski",
+    "Eimear Farrell"
+   ],
+   "venue": "Journal of Gambling Studies"
+  }
+ ],
+ "regressivity": [
+  {
+   "doi": "10.1086/ntj41788710",
+   "year": 1988,
+   "cited": 104,
+   "title": "THE BUDGETARY INCIDENCE OF A LOTTERY TO SUPPORT EDUCATION",
+   "authors": [
+    "Mary O. Borg",
+    "Paul M. Mason"
+   ],
+   "venue": "National Tax Journal"
+  },
+  {
+   "doi": "10.1086/ntj41863133",
+   "year": 1975,
+   "cited": 98,
+   "title": "AN ECONOMIC APPRAISAL OF STATE LOTTERIES",
+   "authors": [
+    "Roger E. Brinner",
+    "Charles T. Clotfelter"
+   ],
+   "venue": "National Tax Journal"
+  },
+  {
+   "doi": "10.1093/esr/jcn063",
+   "year": 2008,
+   "cited": 90,
+   "title": "The Inequality of Fair Play: Lottery Gambling and Social Stratification in Germany",
+   "authors": [
+    "Jens Beckert",
+    "Mark Lutter"
+   ],
+   "venue": "European Sociological Review"
+  },
+  {
+   "doi": "10.1111/1468-0327.00036",
+   "year": 1998,
+   "cited": 84,
+   "title": "The economic analysis of lotteries",
+   "authors": [
+    "Ian Walker"
+   ],
+   "venue": "Economic Policy"
+  },
+  {
+   "doi": "10.1086/ntj41789427",
+   "year": 1999,
+   "cited": 79,
+   "title": "The Tax Incidence of Three Texas Lottery Games: Regressivity, Race, and Education",
+   "authors": [
+    "Donald I. Price",
+    "E. Shawn Novak"
+   ],
+   "venue": "National Tax Journal"
+  },
+  {
+   "doi": "10.1177/109114219502300305",
+   "year": 1995,
+   "cited": 72,
+   "title": "The Tax Incidence of the Colorado State Lottery Instant Game",
+   "authors": [
+    "Ann Hansen"
+   ],
+   "venue": "Public Finance Quarterly"
+  },
+  {
+   "doi": "10.1177/109114218701500306",
+   "year": 1987,
+   "cited": 71,
+   "title": "The Redistributive Effects of Lotteries: Evidence from Canada",
+   "authors": [
+    "John Livernois"
+   ],
+   "venue": "Public Finance Quarterly"
+  },
+  {
+   "doi": "10.1086/ntj41861929",
+   "year": 1974,
+   "cited": 63,
+   "title": "ON THE TAX INCIDENCE OF THE PENNSYLVANIA LOTTERY",
+   "authors": [
+    "M. Spiro"
+   ],
+   "venue": "National Tax Journal"
+  },
+  {
+   "doi": "10.1002/bdm.588",
+   "year": 2008,
+   "cited": 190,
+   "title": "Subjective relative income and lottery ticket purchases",
+   "authors": [
+    "Emily Haisley",
+    "Romel Mostafa",
+    "George Loewenstein"
+   ],
+   "venue": "Journal of Behavioral Decision Making"
+  },
+  {
+   "doi": "10.1111/j.1541-0072.1994.tb01466.x",
+   "year": 1994,
+   "cited": 52,
+   "title": "A Model of Lottery Participation",
+   "authors": [
+    "Mary Herring",
+    "Timothy Bledsoe"
+   ],
+   "venue": "Policy Studies Journal"
+  },
+  {
+   "doi": "10.1111/j.1360-0443.2005.01219.x",
+   "year": 2005,
+   "cited": 29,
+   "title": "COMPLICITY ON THE RIVER BANK: THE SEARCH FOR THE TRUTH ABOUT PROBLEM GAMBLING: REPLY TO THE COMMENTARIES",
+   "authors": [
+    "Jim Orford"
+   ],
+   "venue": "Addiction"
+  },
+  {
+   "doi": "10.1016/j.jdeveco.2018.12.007",
+   "year": 2018,
+   "cited": 28,
+   "title": "The long-term impact of international migration on economic decision-making: Evidence from a migration lottery and lab-in-the-field experiments",
+   "authors": [
+    "John Gibson",
+    "David McKenzie",
+    "Halahingano Rohorua"
+   ],
+   "venue": "Journal of Development Economics"
+  },
+  {
+   "doi": "10.3390/ijerph17020404",
+   "year": 2020,
+   "cited": 25,
+   "title": "The Prevalence of E-Gambling and of Problem E-Gambling in Poland",
+   "authors": [
+    "Bernadeta Lelonek-Kuleta",
+    "Rafał Bartczuk",
+    "Michał Wiechetek"
+   ],
+   "venue": "International Journal of Environmental Research and Public Health"
+  },
+  {
+   "doi": "10.1177/109114218801600301",
+   "year": 1988,
+   "cited": 59,
+   "title": "Why Some States Adopt Lotteries and others Don'T",
+   "authors": [
+    "John E. Filer",
+    "Donald L. Moak",
+    "Barry Uze"
+   ],
+   "venue": "Public Finance Quarterly"
+  },
+  {
+   "doi": "10.1080/13504850701439327",
+   "year": 2007,
+   "cited": 35,
+   "title": "The relative regressivity of seven lottery games",
+   "authors": [
+    "Kathryn L. Combs",
+    "Jaebeom Kim",
+    "John A. Spry"
+   ],
+   "venue": "Applied Economics"
+  },
+  {
+   "doi": "10.1016/j.regsciurbeco.2005.03.001",
+   "year": 2005,
+   "cited": 33,
+   "title": "Copycat gaming: A spatial analysis of state lottery structure",
+   "authors": [
+    "Ryan Brown",
+    "Jonathan C. Rork"
+   ],
+   "venue": "Regional Science and Urban Economics"
+  },
+  {
+   "doi": "10.1111/1467-8675.12429",
+   "year": 2019,
+   "cited": 30,
+   "title": "Democracy and lottery: Revisited",
+   "authors": [
+    "Hubertus Buchstein"
+   ],
+   "venue": "Constellations"
+  },
+  {
+   "doi": "10.2307/3324631",
+   "year": 1985,
+   "cited": 26,
+   "title": "Are Taxes on Lotteries Too High?",
+   "authors": [
+    "Jon David Vasché"
+   ],
+   "venue": "Journal of Policy Analysis and Management"
+  },
+  {
+   "doi": "10.1111/1540-5850.00772",
+   "year": 1988,
+   "cited": 21,
+   "title": "State Lotteries for Public Revenue",
+   "authors": [
+    "John L. Mikesell",
+    "Kurt Zorn"
+   ],
+   "venue": "Public Budgeting &amp Finance"
+  },
+  {
+   "doi": "10.1016/s0272-7757(05)80058-5",
+   "year": 1994,
+   "cited": 8,
+   "title": "Equity and Efficiency of State Lotteries",
+   "authors": [
+    "Sam Cooper",
+    "Elchanan Cohn"
+   ],
+   "venue": "Economics of Education Review"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "facts": [
+  {
+   "claim": "IEPS dossiê metadata: full title, authors, publisher, launch date",
+   "value": "Título: \"A saúde dos brasileiros em jogo: Análise político-econômica da regulamentação de apostas online e seus impactos para a saúde da população brasileira\". Realização: IEPS + Frente Parlamentar Mista para Promoção da Saúde Mental (FPSM) + Umane. Autores: Dayana Rosa, Filipe Asth, Julia Pereira, Marcella Semente, Rebeca Freitas, Sara Ellen Tavares, Victor Nobre (todos IEPS); apoio técnico Carolina Botelho e Marcos Hecksher. Lançado em 2025-12-02. 40 páginas.",
+   "quote": "EXPEDIENTE. Autores: Dayana Rosa (IEPS), Filipe Asth (IEPS), Julia Pereira (IEPS), Marcella Semente (IEPS), Rebeca Freitas (IEPS), Sara Ellen Tavares (IEPS), Victor Nobre (IEPS). Apoio técnico: Carolina Botelho, Marcos Hecksher. [...] O dossiê é uma iniciativa do Instituto de Estudos para Políticas de Saúde (IEPS), da Frente Parlamentar Mista para Promoção da Saúde Mental (FPSM) e da Umane.",
+   "source_name": "IEPS - dossiê PDF (expediente e apresentação) + página de lançamento",
+   "source_url": "https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/",
+   "publication_date": "2025-12-02",
+   "period": "publicado 2025-12-02",
+   "confidence": "high",
+   "notes": "PDF direto: https://ieps.org.br/sdc_download/20532/?key=7wkcf2iipewmh2brntm6dterv4nip4 (baixado e verificado, 7.3 MB, 40 páginas; a chave do link pode expirar, a landing page é o URL estável). Cópia local: C:\\Users\\avner\\AppData\\Local\\Temp\\claude\\E--UPWORK-01-CONTRACTS-bets\\b013e62d-076e-400f-af79-14030c4cf0d3\\scratchpad\\ieps_dossie.pdf"
+  },
+  {
+   "claim": "Custo social anual total dos danos associados a apostas e jogos de azar no Brasil (estimativa IEPS)",
+   "value": "R$ 38,8 bilhões por ano",
+   "quote": "estimou-se que os danos associados a apostas e jogos de azar, no Brasil, geram um custo social anual total de R$ 38,8 bilhões (Figura 4), sendo: R$ 17 bilhões por mortes adicionais por suicídio, R$ 10,4 bilhões por perda de qualidade de vida com depressão, R$ 3 bilhões em tratamentos médicos para depressão; o restante que foi possível mensurar diz respeito à perda de moradia (R$ 1,3 bilhões), a benefícios de seguro-desemprego (R$ 2,1 bilhões) e ao encarceramento por atividade criminal (R$ 4,7 bilhões).",
+   "source_name": "IEPS - dossiê \"A saúde dos brasileiros em jogo\", seção 3.2, p. 34",
+   "source_url": "https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/",
+   "publication_date": "2025-12-02",
+   "period": "custo anual estimado (base: dados 2023-2025)",
+   "confidence": "high",
+   "notes": "Seed (~R$38,8 bi) CONFIRMADO no PDF, número inalterado até jul/2026. Componentes somam R$ 38,5 bi pelos valores arredondados divulgados; o total de R$ 38,8 bi é o publicado pelo IEPS (diferença de arredondamento dos valores subjacentes)."
+  },
+  {
+   "claim": "Componente de saúde do custo social (parcela ligada à saúde)",
+   "value": "R$ 30,6 bilhões por ano (78,8% do total de R$ 38,8 bi)",
+   "quote": "Desse total, 78,8% (R$30,6 bilhões) estão associados a custos ligados à saúde. [Resumo Executivo:] o custo total ligado à saúde chega a R$ 30,6 bilhões (78,8% do total).",
+   "source_name": "IEPS - dossiê \"A saúde dos brasileiros em jogo\", Resumo Executivo (p. 4) e seção 3.2 (p. 34)",
+   "source_url": "https://ieps.org.br/bets-apostas-danos-saude-30-6-bilhoes-por-ano/",
+   "publication_date": "2025-12-02",
+   "period": "custo anual estimado",
+   "confidence": "high",
+   "notes": "Seed (~R$30,6 bi) CONFIRMADO. Release oficial do IEPS com o número no título: \"Bets: danos à saúde associados a apostas podem gerar um custo à sociedade de pelo menos R$ 30,6 bi ao ano\"."
+  },
+  {
+   "claim": "Custo atribuído a mortes adicionais por suicídio associadas ao jogo problemático",
+   "value": "R$ 17 bilhões por ano",
+   "quote": "Estima-se que os danos associados às apostas e jogos de azar, no Brasil, geram um custo social anual total de R$ 38,8 bilhões, sendo: R$ 17 bilhões por mortes adicionais por suicídio, R$ 10,4 bilhões por perda de qualidade de vida decorrente de depressão, R$ 3 bilhões em tratamentos médicos para depressão",
+   "source_name": "IEPS - dossiê \"A saúde dos brasileiros em jogo\", Resumo Executivo, p. 4",
+   "source_url": "https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/",
+   "publication_date": "2025-12-02",
+   "period": "custo anual estimado",
+   "confidence": "high",
+   "notes": "Seed (~R$17 bi) CONFIRMADO. Custo indireto/intangível mensurado via QALY (quality-adjusted life year), transferido do estudo OHID/Reino Unido. O dossiê ressalva que são desfechos ASSOCIADOS ao jogo problemático, \"não sendo possível apontar causalidade\" (nota 88)."
+  },
+  {
+   "claim": "Custo atribuído à depressão associada ao jogo problemático",
+   "value": "R$ 13,4 bilhões por ano (R$ 10,4 bi perda de qualidade de vida + R$ 3 bi tratamentos médicos)",
+   "quote": "Do PDF: \"R$ 10,4 bilhões por perda de qualidade de vida com depressão, R$ 3 bilhões em tratamentos médicos para depressão\". Do release IEPS: \"R$ 13,4 bilhões relativos à depressão, sendo R$ 10,4 bilhões pela perda de qualidade de vida e R$ 3 bilhões em tratamentos médicos\".",
+   "source_name": "IEPS - dossiê p. 34 + release \"Bets: danos à saúde... R$ 30,6 bi ao ano\"",
+   "source_url": "https://ieps.org.br/bets-apostas-danos-saude-30-6-bilhoes-por-ano/",
+   "publication_date": "2025-12-02",
+   "period": "custo anual estimado",
+   "confidence": "high",
+   "notes": "Seed (~R$13,4 bi) CONFIRMADO como soma dos dois subcomponentes; o PDF apresenta os subcomponentes separados, o release soma em R$ 13,4 bi. Demais componentes não-saúde: perda de moradia R$ 1,3 bi; seguro-desemprego R$ 2,1 bi; encarceramento por atividade criminal R$ 4,7 bi."
+  },
+  {
+   "claim": "Apenas 1% da arrecadação sobre a receita das bets é destinado por lei ao Ministério da Saúde",
+   "value": "1% da arrecadação (destinação legal); R$ 32.970.380,28 efetivamente transferidos até 2025-08-25",
+   "quote": "Contudo, a legislação atual destina apenas 1% da arrecadação sobre a receita bruta das empresas de apostas ao Ministério da Saúde, percentual considerado irrisório diante da dimensão do problema. [...] REPASSE AO MINISTÉRIO DA SAÚDE: Com base na destinação obrigatória de 1% da arrecadação líquida para o Ministério da Saúde, o valor efetivamente transferido até 25 de agosto de 2025 foi de R$32.970.380,28. A quantia é autodeclarada pelas operadoras, conforme registrado no Sistema de Gestão de Apostas (SIGAP).",
+   "source_name": "IEPS - dossiê \"A saúde dos brasileiros em jogo\", Resumo Executivo (p. 4) e seção 2.2.1 (p. 23), com base na resposta do Ministério da Fazenda ao RIC nº 3793/2025",
+   "source_url": "https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/",
+   "publication_date": "2025-12-02",
+   "period": "repasse acumulado até 2025-08-25",
+   "confidence": "high",
+   "notes": "Seed CONFIRMADO. Destinação prevista na Lei nº 13.756/2018 e operacionalizada pela Portaria SPA/MF nº 1.907/2025 (códigos DARF). Recursos entram na Fonte de Recursos 184 - Prevenção, Controle e Mitigação de Danos Sociais Advindos da Prática de Jogos, iniciada em fev/2025 (resposta do Ministério da Saúde ao RIC nº 3794/2025). O dossiê nota que o Resumo Executivo fala em receita bruta e a seção 2.2.1 em arrecadação líquida."
+  },
+  {
+   "claim": "Valor ATUALIZADO do repasse ao Fundo Nacional de Saúde (fev/2025 a fev/2026): R$ 57 milhões, 1,15% do arrecadado; custo ao sistema público 537 vezes maior que o repasse",
+   "value": "~R$ 57 milhões em 12 meses (1,15% de ~R$ 5 bi arrecadados); razão custo/repasse = 537x",
+   "quote": "Na prática, a conta que chega ao sistema público é 537 vezes maior que o valor repassado para enfrentá-la. [Marcella Semente, IEPS:] O custo individual das famílias que perdem dinheiro nas apostas, por exemplo, não entrou no cálculo.",
+   "source_name": "Brasil de Fato (2026-04-08), citando o dossiê IEPS e dados atualizados de repasse ao FNS",
+   "source_url": "https://www.brasildefato.com.br/2026/04/08/gasto-com-saude-de-apostadores-e-500-vezes-maior-que-os-tributos-pagos-pelas-bets-ao-sus/",
+   "publication_date": "2026-04-08",
+   "period": "2025-02 a 2026-02",
+   "confidence": "medium",
+   "notes": "Atualização de 2026 do dado de repasse (o PDF de dez/2025 trazia R$ 32,97 mi até ago/2025). Fonte secundária (Brasil de Fato) citando IEPS/FNS; não localizei nota primária do IEPS com exatamente R$ 57 mi, por isso confiança média no valor exato. A ordem de grandeza (~1% destinado à saúde) é consistente com o dossiê."
+  },
+  {
+   "claim": "Metodologia: transferência das estimativas do OHID (Reino Unido, 2023) para o Brasil por paridade do poder de compra, aplicada à população de risco do LENAD III",
+   "value": "Base: OHID \"The economic and social cost of harms associated with gambling in England - Evidence update 2023\" (jan/2023); conversão por PPC Brasil-Reino Unido; universo de 12,8 milhões de brasileiros 14+ em situação de risco (LENAD III: 6,5% risco baixo/moderado + 0,8% jogadores problemáticos)",
+   "quote": "Utilizando os percentuais do Lenad III (2025), que estima em 6,5% a população brasileira de 14 anos ou mais como apostadores de risco baixo ou moderado, e em 0,8% como apostadores problemáticos (de alto risco), calcula-se que o Brasil possui cerca de 12,8 milhões de pessoas em situação de risco com relação a apostas. Com base nesse universo, e na conversão da paridade do poder de compra entre Brasil e Reino Unido, estimou-se que os danos associados a apostas e jogos de azar, no Brasil, geram um custo social anual total de R$ 38,8 bilhões.",
+   "source_name": "IEPS - dossiê \"A saúde dos brasileiros em jogo\", seção 3.2, p. 33-34 (notas 72-73, 87-89)",
+   "source_url": "https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/",
+   "publication_date": "2025-12-02",
+   "period": "estimativa OHID 2023 transferida para o Brasil em 2025",
+   "confidence": "high",
+   "notes": "Fonte britânica citada (nota 73): UNITED KINGDOM. Office for Health Improvement and Disparities. The economic and social cost of harms associated with gambling in England - Evidence update 2023. London: OHID, Jan. 2023, https://assets.publishing.service.gov.uk/media/63bc25b4d3bf7f262c5ad31f/The-economic-cost-of-gambling-related-harm-in-England_evidence-update-2023.pdf. Justificativa da escolha do Reino Unido (nota 72): similaridade NHS-SUS e legislação de apostas desde 2005 (Gambling Act 2005). Fontes brasileiras usadas: Receita Federal, RAIS, IBGE e LENAD III (UNIFESP/UNIAD). Componentes incluídos: depressão, dependência de álcool, encarceramento/exclusão social, suicídio, perda de moradia, seguro-desemprego; custos majoritariamente na perspectiva do governo (custos diretos), com custos indiretos/intangíveis via QALY apenas para depressão e suicídio (nota 87)."
+  },
+  {
+   "claim": "Por que a estimativa é considerada conservadora (componentes excluídos)",
+   "value": "Excluídos por falta de evidência robusta: danos a relacionamentos e vínculos interpessoais; perdas financeiras individuais dos apostadores e famílias; efeitos sobre terceiros (pelo menos 6 pessoas afetadas por cada jogador problemático)",
+   "quote": "Há danos para os quais não foi possível produzir estimativas de custo devido à falta de evidências robustas, como é o caso de danos aos relacionamentos e vínculos interpessoais. [...] não foi possível calcular o custo dos danos financeiros individuais para os usuários ou para outras pessoas afetadas (familiares e a rede mais próxima de pessoas) [...] destacamos a estimativa de que pelo menos seis outras pessoas são afetadas negativamente por uma pessoa que apresenta comportamento de jogo problemático. É fundamental reforçar, portanto, que as estimativas apresentadas aqui são conservadoras, pois se restringem apenas ao custo dos danos que foi possível mensurar a partir das evidências disponíveis.",
+   "source_name": "IEPS - dossiê \"A saúde dos brasileiros em jogo\", p. 33-34 (notas 87, 90)",
+   "source_url": "https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/",
+   "publication_date": "2025-12-02",
+   "period": "n/a (metodologia)",
+   "confidence": "high",
+   "notes": "Referência do efeito sobre 6 terceiros (nota 90): Goodwin BC, Browne M, Rockloff M, Rose J. A typical problem gambler affects six others. Int Gambl Stud 2017;17:276-289. O dossiê também ressalva (nota 88) que os desfechos são ASSOCIADOS ao jogo problemático, sem afirmação de causalidade."
+  },
+  {
+   "claim": "Contraste arrecadação vs. custo social apresentado pelo dossiê",
+   "value": "Arrecadação de R$ 6,8 bilhões (jan-set/2025; projeção anual de R$ 12 bi) vs. custo anual estimado de R$ 38,8 bilhões",
+   "quote": "O contraste entre a arrecadação de R$ 6,8 bilhões - ainda que consideremos a projeção anual de R$ 12 bilhões - e o custo anual estimado de R$ 38,8 bilhões revelam uma conta que não fecha do ponto de vista do interesse público.",
+   "source_name": "IEPS - dossiê \"A saúde dos brasileiros em jogo\", p. 34 (nota 61: valor refere-se a jan-set/2025, Receita Federal)",
+   "source_url": "https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/",
+   "publication_date": "2025-12-02",
+   "period": "2025-01 a 2025-09",
+   "confidence": "high",
+   "notes": "Nota 61 do PDF esclarece: \"O valor de R$ 6,8 bilhões citado ao longo deste documento refere-se à arrecadação do setor registrada entre janeiro e setembro de 2025\". Fonte da arrecadação: Receita Federal, Análise da arrecadação das Receitas Federais Setembro/2025."
+  },
+  {
+   "claim": "Publicação IEPS ATUALIZADA sobre bets em 2026: edição especial do Radar Político da Saúde sobre regulação de bets no Congresso",
+   "value": "\"Radar Político da Saúde - Como o Congresso Nacional quer regular as bets no Brasil?\" (IEPS/FPSM/Umane, publicado 2026-05-07, atualizado 2026-05-19): 231 projetos de lei entre jan/2019 e mar/2026 (158 Câmara, 73 Senado); crescimento de 18 para 117 projetos entre 2023 e 2025; apenas 14 projetos (6,1%) tratam de governança e políticas de prevenção de danos à saúde",
+   "quote": "231 projetos de lei apresentados entre janeiro de 2019 e março de 2026 [...] Distribuição temática: regras de funcionamento das plataformas (69 projetos; 29,9%), publicidade, promoção e patrocínio (53; 22,9%), fiscalização e sanções (48; 20,8%) e tributação (41; 17,7%). Apenas 14 projetos, o equivalente a 6,1% do total, tratam de governança e políticas públicas voltadas à prevenção de danos à saúde.",
+   "source_name": "IEPS - Radar Político da Saúde (edição especial bets)",
+   "source_url": "https://ieps.org.br/regulacao-de-bets-congresso-impactos-na-saude/",
+   "publication_date": "2026-05-07",
+   "period": "PLs de 2019-01 a 2026-03",
+   "confidence": "high",
+   "notes": "Este levantamento NÃO revisa os números de custo do dossiê de dez/2025; foca na produção legislativa. Até jul/2026 não localizei revisão do IEPS aos valores de R$ 38,8 bi / R$ 30,6 bi; eles permanecem os números oficiais vigentes do instituto. O dossiê também menciona Acordo de Cooperação Técnica Saúde-Fazenda (dez/2025) para criar o Observatório de Saúde e Apostas Eletrônicas do Brasil, plataforma nacional de autoexclusão e teleatendimento mensal."
+  }
+ ],
+ "summary": "All seed values for the IEPS dimension are CONFIRMED against the primary PDF, downloaded and text-extracted at C:\\Users\\avner\\AppData\\Local\\Temp\\claude\\E--UPWORK-01-CONTRACTS-bets\\b013e62d-076e-400f-af79-14030c4cf0d3\\scratchpad\\ieps_dossie.pdf (text at ieps_dossie.txt). The dossiê \"A saúde dos brasileiros em jogo: análise político-econômica da regulamentação de apostas online e seus impactos para a saúde da população brasileira\" (IEPS + Frente Parlamentar Mista para Promoção da Saúde Mental + Umane; 7 IEPS authors led list: Dayana Rosa et al.; launched 2025-12-02; landing page https://ieps.org.br/saude-brasileiros-em-jogo-bets-apostas-impactos-saude/) estimates a total annual social cost of R$ 38.8 bi, of which R$ 30.6 bi (78.8%) is health-related: R$ 17 bi additional suicide deaths, R$ 13.4 bi depression (R$ 10.4 bi QALY loss + R$ 3 bi medical treatment), plus non-health components (housing loss R$ 1.3 bi, unemployment insurance R$ 2.1 bi, incarceration R$ 4.7 bi). Methodology: transfer of the UK OHID \"Evidence update 2023\" cost estimates to Brazil via purchasing power parity, applied to 12.8 million at-risk bettors derived from LENAD III (6.5% low/moderate risk + 0.8% problem gamblers, population 14+); explicitly conservative because it excludes relationship harms, bettors' own financial losses and effects on ~6 affected others per problem gambler, and it claims association, not causality. The 1% legal earmark to Ministério da Saúde is confirmed (R$ 32.97 mi transferred to 2025-08-25 per SIGAP); an April 2026 update reported ~R$ 57 mi (1.15%) to the Fundo Nacional de Saúde for Feb/2025-Feb/2026, a cost-to-transfer ratio of 537x (secondary source, medium confidence). Newest IEPS gambling publication through 2026: special Radar Político da Saúde on bets (2026-05-07), 231 bills Jan/2019-Mar/2026, only 6.1% addressing health; it does not revise the cost figures, so R$ 38.8 bi / R$ 30.6 bi remain the latest official IEPS values as of July 2026."
+}

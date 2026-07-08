@@ -1,0 +1,36 @@
+{
+ "terms": [
+  "tigrinho",
+  "bet",
+  "betano",
+  "blaze aposta"
+ ],
+ "year_sim": "2023",
+ "pairs": {
+  "busca_vs_suicidio": {
+   "rho": -0.209,
+   "ci95": [
+    -0.564,
+    0.199
+   ],
+   "n": 27
+  },
+  "busca_vs_renda": {
+   "rho": -0.428,
+   "ci95": [
+    -0.741,
+    -0.003
+   ],
+   "n": 27
+  },
+  "renda_vs_suicidio": {
+   "rho": 0.307,
+   "ci95": [
+    -0.138,
+    0.714
+   ],
+   "n": 27
+  }
+ },
+ "note": "Spearman com IC 95% bootstrap (5000 reamostragens); associação ecológica entre UFs, não causal"
+}

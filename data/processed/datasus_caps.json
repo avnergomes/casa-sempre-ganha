@@ -1,0 +1,37 @@
+{
+ "values": {
+  "RO": 25,
+  "AC": 16,
+  "AM": 38,
+  "RR": 12,
+  "PA": 126,
+  "AP": 13,
+  "TO": 23,
+  "MA": 121,
+  "PI": 70,
+  "CE": 206,
+  "RN": 56,
+  "PB": 140,
+  "PE": 179,
+  "AL": 74,
+  "SE": 45,
+  "BA": 328,
+  "MG": 481,
+  "ES": 47,
+  "RJ": 206,
+  "SP": 642,
+  "PR": 190,
+  "SC": 125,
+  "RS": 239,
+  "MS": 45,
+  "MT": 59,
+  "GO": 113,
+  "DF": 18
+ },
+ "competencia": [
+  "stbr2605.dbf"
+ ],
+ "filter": "CENTRO DE ATENCAO PSICOSSOCIAL",
+ "def": "cnes/cnv/estabbr.def",
+ "source": "DATASUS/CNES via TABNET (cnes/cnv/estabbr.def), tipo de estabelecimento: CENTRO DE ATENCAO PSICOSSOCIAL"
+}

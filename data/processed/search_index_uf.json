@@ -1,0 +1,38 @@
+{
+ "values": {
+  "ES": 86.6,
+  "AL": 74.3,
+  "MA": 79.8,
+  "RJ": 82.9,
+  "SC": 52.4,
+  "GO": 63.7,
+  "RS": 49.7,
+  "CE": 62.0,
+  "MG": 59.9,
+  "DF": 44.2,
+  "AP": 94.5,
+  "AM": 99.7,
+  "MS": 67.5,
+  "TO": 76.0,
+  "SE": 60.3,
+  "AC": 100.0,
+  "RN": 55.5,
+  "PI": 68.5,
+  "SP": 56.2,
+  "PE": 59.2,
+  "RR": 69.2,
+  "PB": 58.2,
+  "RO": 84.2,
+  "PA": 78.4,
+  "BA": 70.9,
+  "PR": 61.6,
+  "MT": 96.9
+ },
+ "terms": [
+  "tigrinho",
+  "bet",
+  "betano",
+  "blaze aposta"
+ ],
+ "source": "Google Trends via pytrends, índice composto (média reescalada 0-100) dos termos de aposta por UF"
+}

@@ -1,0 +1,5 @@
+{
+ "url": "https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?intrarregiao=UF&qualidade=minima&formato=application/vnd.geo+json",
+ "fetched_at": "2026-07-07T23:06:30",
+ "status": 200
+}

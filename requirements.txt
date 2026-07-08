@@ -1,0 +1,9 @@
+# Pipeline "A Casa Sempre Ganha" — dependências (Python 3.12)
+pandas
+numpy
+scipy
+requests
+shapely
+statsmodels
+sidrapy
+pytrends

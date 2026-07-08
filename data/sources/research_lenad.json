@@ -1,0 +1,124 @@
+{
+ "facts": [
+  {
+   "claim": "Exact identity of the primary source: LENAD III thematic report on gambling, by Unifesp (UNIAD) under TED 003/2019 with the Ministério da Justiça (SENAD)",
+   "value": "Caderno Temático LENAD III - Jogos de Aposta na População Brasileira, Resultados 2023, UNIFESP 2025; PDF internally dated 2025-04-17 (InDesign CreationDate), publicly announced by UNIAD on 2025-05-05",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17 (PDF metadata); announced 2025-05-05",
+   "period": "Data collected 2023, behaviors refer to prior 12 months (reference year 2022)",
+   "quote": "CADERNO TEMÁTICO LENAD III / JOGOS DE APOSTA NA POPULAÇÃO BRASILEIRA / Resultados 2023 / UNIFESP / 2025 ... TERMO DE EXECUÇÃO DESCENTRALIZADA (TED 2019/003) UNIFESP – MINISTÉRIO DA JUSTIÇA (SENAD). Ronaldo Ramos Laranjeira (Coordenação Geral) ... Clarice Sandi Madruga (Coordenação Executiva)",
+   "confidence": "high",
+   "notes": "58-page PDF, hosted at lenad.uniad.org.br. Companion announcement page: https://www.uniad.org.br/noticias/o-que-o-iii-lenad-nos-mostra-sobre-os-jogos-de-aposta-na-populacao-brasileira-2/ dated '5 de maio de 2025'. Only one version of the gambling caderno exists on the LENAD results page as of 2026-07-07 (other cadernos have dated revision suffixes; this one does not)."
+  },
+  {
+   "claim": "Survey sample and gambling module: total sample, gambling subsample, and analysis Ns",
+   "value": "Total N=16,608 (14+); gambling module subsample N=4,914 (Bloco Complementar 1); analyses on N=4,860; past-year gamblers N=684; adolescents in module N=876; adults N=3,984",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (pp. 14, 22, 31, 40-41)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Fieldwork 2023; LENAD III executed 2022-2024, field completed 2024",
+   "quote": "A terceira edição do LENAD contou com uma amostra total de 16.608 participantes ... o módulo dedicado à investigação de jogos de apostas e outros comportamentos aditivos foi administrado no BLOCO COMPLEMENTAR 1 do LENAD, que teve uma subamostra total de 4.914 participantes. A alocação de cada respondente aos blocos complementares foi realizada de forma randomizada ... Prevalências (%) relativas à amostra total do Módulo Jogos (N=4.860) ... Prevalências (%) relativas ao total de apostadores (apostou no último ano - N=684)",
+   "confidence": "high",
+   "notes": "Probabilistic four-stage household sampling by Ipsos Public Affairs. Instrument: Problem Gambling Severity Index (PGSI). Timing caveat quoted in report: 'a coleta do LENAD III durante o ano de 2023, investigou o envolvimento com jogos de apostas no período dos 12 meses anteriores à entrevista, enquanto a Lei nº 14.790/2023 ... foi sancionada apenas em 29 de dezembro de 2023.' Achados principais state '17,6% apostaram no último ano (ano de referência 2022)'."
+  },
+  {
+   "claim": "Total share of Brazilian population (14+) that bets: lifetime and past 12 months",
+   "value": "Lifetime 25.9% (IC95% 23.8-28.1); past 12 months 17.6% (IC95% 16.0-19.4) = more than 28 million Brazilians 14+; adults 18.1%, adolescents (14-17) 10.5%",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (pp. 32, 35, 51)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022 (12 months prior to 2023 interviews)",
+   "quote": "Mais de um quarto da população brasileira com 14 anos ou mais já apostou em jogos de apostas em algum momento da vida (25,9%, IC95% 23,8-28,1). ... A prevalência da população que referiu ter apostado recentemente foi de (17,6%, IC95% 16,0-19,4), que representa cerca mais de 28 milhões de brasileiros com mais de 14 anos.",
+   "confidence": "high",
+   "notes": "Achados principais: '17,6% apostaram no último ano (ano de referência 2022), 10,5% entre adolescentes e 18,1% entre adultos.' Note the population is 14+, not strictly adult."
+  },
+  {
+   "claim": "Prevalence of risky/problem gambling (jogo de risco ou problemático, PGSI >= 1) in the population 14+: the LENAD III official figure is 10.9 million, NOT 12.7 million; the 12.7M seed comes from IEPS's citation and appears to be a recalculated extrapolation",
+   "value": "7.3% of Brazilians 14+ (IC95% 5.6-8.0) = ~10.9 million people (LENAD III official); IEPS (2025-12-02) cites 'cerca de 12,7 milhões' attributing to LENAD III",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (p. 40); IEPS",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17 (LENAD); 2025-12-02 (IEPS)",
+   "period": "Reference year 2022",
+   "quote": "Estima-se que 7,3% dos brasileiros com 14 anos ou mais (IC95%: 5,6–8,0) se enquadrem na categoria de jogo de risco ou problemático, de acordo com a escala PGSI, o que representa cerca de 10,9 milhões de pessoas. [LENAD III, p.40] | 'cerca de 12,7 milhões de pessoas em situação de uso arriscado de jogos de apostas' [IEPS, https://ieps.org.br/bets-apostas-danos-saude-30-6-bilhoes-por-ano/, citing 'Lenad III (Unifesp e Ministério da Justiça)']",
+   "confidence": "high",
+   "notes": "SEED CHECK: the seed value '~12,7 milhões em uso arriscado' matches the IEPS report 'A Saúde dos brasileiros em jogo' (2025-12-02), which attributes it to LENAD III. The LENAD III caderno itself prints 10.9 million (7.3%). 7.3% applied to the IBGE Census 2022 population 14+ (~174M) yields ~12.7M, so IEPS likely re-based the same 7.3% on a larger population denominator. For LENAD III as source, use 10.9 million / 7.3%; if quoting 12.7M, attribute to IEPS's derivation. FAPESP (Pesquisa FAPESP ed. 351, Apr/May 2025) headlined 'Quase 11 milhões de brasileiros apostam de modo a pôr em risco' consistent with the 10.9M official figure."
+  },
+  {
+   "claim": "Problem gambling / probable gambling disorder (Transtorno do Jogo) prevalence in population 14+",
+   "value": "0.8% (IC95% 0.5-1.3) of population 14+ = ~1.4 million Brazilians; equals 4.4% (IC95% 2.8-6.8) of past-year gamblers (PGSI >= 8)",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (pp. 40, 51)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022",
+   "quote": "Além disso, aproximadamente 1,4 milhão de brasileiros (0,8%, IC95%: 0,5–1,3) atingem escores compatíveis com diagnóstico provável de Transtorno do Jogo, conforme os níveis mais elevados da PGSI — refletindo uma condição clínica mais grave, com impacto significativo sobre a saúde mental e a qualidade de vida.",
+   "confidence": "high",
+   "notes": "PGSI categories per the report: 0 criteria = no risk; 1-2 = low risk; 3-7 = moderate risk; 8+ = problem gambling / gambling disorder."
+  },
+  {
+   "claim": "Risk distribution among past-year gamblers (PGSI, N=684)",
+   "value": "No risk 61.4% (56.4-66.1); low risk 19.4% (16.1-23.3); moderate risk 14.8% (11.6-18.9); problem gambling 4.4% (2.8-6.8); any risk or problem 38.6% (33.9-43.6)",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (Tabela 7, p. 41)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022",
+   "quote": "Tabela 7 ... Jogo sem risco 61,4 (56,4-66,1); Jogo com baixo risco 19,4 (16,1-23,3); Jogo com risco moderado 14,8 (11,6-18,9); Jogo problemático 4,4 (2,8-6,8); Jogo de risco ou problemático 38,6 (33,9-43,6). Prevalências (%) relativas ao total de apostadores (apostou no último ano - N=684)",
+   "confidence": "high",
+   "notes": "Report conclusion phrases it as 'quase quatro em cada dez (38,6%) são considerados em situação de risco' among active gamblers (though one passage of the achados principais mistakenly says 'um a cada quatro'; the table value 38.6% is the authoritative number)."
+  },
+  {
+   "claim": "Age breakdown: adolescents are the most vulnerable group",
+   "value": "Adolescent (14-17) past-year gamblers at risk or problematic: 55.2% (IC95% 39.0-70.4) vs adults 38.8% (IC95% 32.9-43.3), significant p<0.05; 10.5% of adolescents bet in past year (13.8% boys vs 7.4% girls); 14% lifetime",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (Tabelas 4 e 9, pp. 35, 43)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022 (pre-Lei 14.790/2023, which banned betting by minors)",
+   "quote": "mais da metade dos adolescentes apresentaram indicativos de jogo de risco ou problemático (55,2%), enquanto essa proporção foi de 37,9% entre adultos. ... Tabela 9: Apostadores em risco ou problemático - Adolescente 55,2 (39,0-70,4); Adulto 38,8 (32,9-43,3). ... mais de um a cada dez adolescentes (10,5%, IC95%:7,9-14,0) com idade entre 14 e 17 anos declarou ter feito algum tipo de aposta nos últimos 12 meses.",
+   "confidence": "high",
+   "notes": "Minor internal inconsistency in the report: narrative text says 37.9% for adults, Table 9 says 38.8%; the conclusion also uses 37.9% with the 32.9-43.3 CI. Cite the table value 38.8% with the discrepancy noted."
+  },
+  {
+   "claim": "Sex breakdown: betting and risk are markedly male-skewed",
+   "value": "Past-year gamblers: 64.8% male vs 35.2% female; adult past-year prevalence 24.5% men vs 12.3% women; at-risk/problematic among gamblers: 43.7% (37.1-51.3) male vs 28.9% (23.4-35.1) female",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (pp. 30, 35, 42)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022",
+   "quote": "A prática de apostas no último ano foi mais frequente entre pessoas do sexo masculino (64,8%; IC95%: 60,1–69,3) do que entre aquelas do sexo feminino (35,2%; IC95%: 30,7–39,9). ... Entre os participantes do sexo masculino, 43,7% (IC95%: 37,1–51,3) foram classificados como em risco ou problemáticos segundo a escala PGSI. Já entre os participantes do sexo feminino, essa proporção foi de 28,9% (IC95%: 23,4–35,1).",
+   "confidence": "high"
+  },
+  {
+   "claim": "Income breakdown: risky gambling is inversely proportional to personal income",
+   "value": "At-risk/problematic among gamblers: <1 minimum wage (R$1,212) 52.8% (46.1-59.4); 1-2 MW 31.2% (24.1-39.3); >2 MW 21.1% (13.2-32.1); binary comparison 52.8% vs 25.8% (19.9-32.7)",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (Tabela 11, p. 46)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022",
+   "quote": "21,1% do grupo com renda de 2 ou mais salários-mínimos mensais se enquadram na categoria de jogo de risco ou problemático, essa proporção aumenta significativamente para 31,2% entre aqueles com renda entre 1 e 2 salários-mínimos, chegando a 52,8%, ou seja, mais da metade dos apostadores que possuem uma renda pessoal inferior à um salário-mínimo. Destaca-se que a população que refere receber menos de 1 salário-mínimo equivale a 61,7% da amostra do LENAD III (N=7.884).",
+   "confidence": "high",
+   "notes": "Income table based on N=576 gamblers with income data. Household-income angle (p.30): betting participation itself is higher among households above 3 MW (35.0%), i.e., participation skews higher-income but HARM skews lower-income."
+  },
+  {
+   "claim": "Online betting platforms (bets): user base and sharply elevated risk",
+   "value": "5.6% of population 14+ (IC95% 4.5-6.9) = more than 9 million people use bets; 32.1% of gamblers use bets (2nd most common modality after lotteries 71.3%, above jogo do bicho 28.9%); among bets users 66.8% (59.0-73.9) are at-risk/problematic vs 26.8% (22.0-32.1) for all other modalities",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (pp. 32, 48)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022 (pre-regulation: Lei 14.790/2023 sanctioned 2023-12-29)",
+   "quote": "A prevalência da população brasileira que referiu o uso de bets representa mais de 9 milhões de pessoas (5,6%, IC 95%: 4,5 – 6,9). ... Entre esses apostadores, a proporção de apostadores com problemas chega a 66,8%, um aumento de quase 150% quando comparado a proporção de apostadores com problemas que usam qualquer uma das demais modalidades de aposta (26,8%).",
+   "confidence": "high"
+  },
+  {
+   "claim": "Regional breakdown of risky gambling among past-year gamblers",
+   "value": "Nordeste 52.3% (41.7-62.7); Norte 46.2% (23.2-71.0); Sudeste 35.3% (28.4-43.0); Centro-Oeste 29.8% (17.6-45.7); Sul 28.0% (20.5-36.9). Sul has highest betting participation (20.4%) but lowest risk share; Nordeste has among the lowest participation (16.3%) but highest risk share",
+   "source_name": "UNIFESP/UNIAD - Caderno Temático LENAD III Jogos de Aposta (Tabela 10, pp. 44-45)",
+   "source_url": "https://lenad.uniad.org.br/cadernos-lenad/Caderno-Jogos-de-Aposta-LENAD-III.pdf",
+   "publication_date": "2025-04-17",
+   "period": "Reference year 2022",
+   "quote": "As maiores prevalências foram observadas no Nordeste, com 52,3% (IC95%: 41,7–62,7), e no Norte, com 46,2% (IC95%: 23,2–71,0). ... Embora o Sul tenha apresentado a maior prevalência de apostadores no último ano (20,4%, IC95%: 17,1–24,1), a proporção de apostadores classificados como em risco ou problemáticos foi a mais baixa entre as regiões (28,0%, IC95%: 20,5–36,9)",
+   "confidence": "high",
+   "notes": "Norte CI is very wide (23.2-71.0) due to small subsample, as the report itself warns."
+  }
+ ],
+ "summary": "LENAD III gambling data fully verified against the primary source, the 58-page \"Caderno Temático LENAD III - Jogos de Aposta na População Brasileira, Resultados 2023\" (UNIFESP/UNIAD + Ministério da Justiça/SENAD, TED 003/2019), PDF at lenad.uniad.org.br, internally dated 2025-04-17 and announced 2025-05-05. Survey: 16,608 participants 14+, fieldwork 2023, gambling module subsample 4,914 (analysis N=4,860; past-year gamblers N=684), PGSI scale, behaviors referring to the 12 months before interview (reference year 2022, pre-Lei 14.790/2023). Key official numbers: 25.9% lifetime betting; 17.6% past-year (~28 million people 14+); 7.3% of population in risky/problematic gambling = ~10.9 million (NOT 12.7M); 0.8% = ~1.4 million with probable gambling disorder; among past-year gamblers 38.6% at some risk (61.4% none / 19.4% low / 14.8% moderate / 4.4% problem). SEED CORRECTION: the seed's \"~12.7 million em uso arriscado\" is the IEPS report's figure (2025-12-02, \"A Saúde dos brasileiros em jogo\"), which cites LENAD III but appears to re-base the 7.3% on the Census-2022 14+ population; the LENAD document itself prints 10.9 million. Breakdowns: adolescents 55.2% of young gamblers at risk vs 38.8% adults; males 43.7% vs females 28.9%; income <1 minimum wage 52.8% vs >2 MW 21.1%; bets users (5.6% of population, >9 million) 66.8% at risk vs 26.8% other modalities; Nordeste 52.3% highest regional risk. Extracted full text saved at C:\\Users\\avner\\AppData\\Local\\Temp\\claude\\E--UPWORK-01-CONTRACTS-bets\\b013e62d-076e-400f-af79-14030c4cf0d3\\scratchpad\\lenad3_jogos.txt (PDF: lenad3_jogos.pdf in same folder)."
+}

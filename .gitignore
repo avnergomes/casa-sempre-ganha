@@ -1,0 +1,13 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Templates de referência de terceiros (não fazem parte deste projeto)
+reference/
+
+# Temporários
+*.log
+.DS_Store
+Thumbs.db
+scratchpad/
