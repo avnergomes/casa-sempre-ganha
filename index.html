@@ -32,14 +32,14 @@ b,strong{color:var(--ink)}
 #prog{position:fixed;top:0;left:0;height:3px;background:var(--red);width:0;z-index:60}
 nav.top{position:sticky;top:0;z-index:50;background:oklch(12% 0.022 265 / 0.85);
 backdrop-filter:saturate(140%) blur(14px);border-bottom:1px solid var(--line)}
-nav.top .wrap{display:flex;gap:6px;align-items:center;height:54px;overflow-x:auto;scrollbar-width:none}
+nav.top .wrap{display:flex;flex-wrap:wrap;gap:2px 4px;align-items:center;min-height:52px;padding-top:8px;padding-bottom:8px}
 nav.top .wrap::-webkit-scrollbar{display:none}
-nav.top a{font-size:12.5px;color:var(--ink-2);text-decoration:none;padding:6px 10px;
-border-radius:8px;white-space:nowrap;font-family:var(--font-mono);letter-spacing:.01em;
+nav.top a{font-size:12px;color:var(--ink-2);text-decoration:none;padding:5px 8px;
+border-radius:8px;white-space:nowrap;font-family:var(--font-mono);letter-spacing:.005em;
 transition:background .2s,color .2s}
 nav.top a:hover{background:var(--paper-3);color:var(--ink)}
 nav.top .brand{font-family:var(--font-display);font-style:italic;font-weight:400;
-font-size:16px;color:var(--ink);margin-right:10px;white-space:nowrap}
+font-size:15px;color:var(--ink);margin-right:8px;white-space:nowrap}
 nav.top .langs{margin-left:auto;display:flex;gap:2px;flex-shrink:0}
 nav.top .langs button{font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;cursor:pointer;
 padding:5px 11px;border-radius:999px;color:var(--mut);background:none;border:1px solid transparent}
