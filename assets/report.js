@@ -1040,6 +1040,7 @@ function setLang(l) {
   LANG = l;
   document.querySelectorAll(".langs button").forEach(function (b) { b.classList.toggle("on", b.getAttribute("data-setlang") === l); });
   document.getElementById("nav-brand").textContent = T().foot.title;
+  document.getElementById("hero-title").textContent = T().foot.title;
   applyStatic(); buildSections(); renderCharts();
 }
 
