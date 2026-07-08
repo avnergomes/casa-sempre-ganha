@@ -107,6 +107,46 @@
   "source": "Senado Federal (CPI das Bets), Câmara dos Deputados (PL 5473/2025), SPA/MF (autoexclusão), OHID/UK.",
   "url": "https://www12.senado.leg.br"
  },
+ "futebol": {
+  "clubes_serie_a_com_bet": 18,
+  "clubes_serie_a_total": 20,
+  "patrocinio_camisa_alta_pct": 125,
+  "patrocinio_camisa_bi": 1.1,
+  "patrocinio_camisa_anos": 2,
+  "rank_mercado_mundial": 5,
+  "source": "G1 (patrocínio de camisa na Série A, 2025); BBC/Regulus Partners (Brasil 5º maior mercado de apostas do mundo, 2025).",
+  "url": "https://g1.globo.com",
+  "period": "2025",
+  "nota": "O futebol é, ao mesmo tempo, o maior veículo de publicidade das apostas e o principal objeto delas: marca na camisa, anúncio na transmissão e o jogador como garoto-propaganda naturalizam a bet."
+ },
+ "opiniao": {
+  "nocivas_pct": 86,
+  "proibicao_total_pct": 70,
+  "limites_publicidade_pct": 76,
+  "associam_endividamento_pct": 85,
+  "source": "AtlasIntel — Latam Pulse Brasil (abril de 2026): percepção da população sobre as apostas online.",
+  "url": "https://atlasintel.org",
+  "period": "abril de 2026",
+  "nota": "Falar contra a indústria das bets não é posição polêmica: é porta-voz de um consenso. A ampla maioria do país já associa as bets a dano social e a endividamento."
+ },
+ "genero": {
+  "endividados_mulheres_pct": 53.9,
+  "endividados_mulheres_ate30_aprox_pct": 50,
+  "inss_afastados_ludopatia_homens_pct": 73,
+  "inss_auxilios_ludopatia_alta_pct": 2300,
+  "source": "CNC/Serasa e perfil de endividamento (mulheres entre os endividados por aposta); INSS via The Intercept Brasil, \"Do tigrinho ao INSS\" (afastamentos por transtorno do jogo e alta de auxílios por ludopatia).",
+  "url": "https://www.intercept.com.br",
+  "period": "2024–2025",
+  "nota": "O vício tem gênero em duas pontas: quem se afasta por ludopatia é majoritariamente homem, mas quem carrega a dívida, os filhos e a casa quando um homem se vicia é, com frequência, a mulher."
+ },
+ "ajuda": {
+  "cvv": "188",
+  "cvv_nota": "CVV — apoio emocional e prevenção do suicídio, 24h, gratuito e sigiloso (ligação 188, chat e e-mail).",
+  "autoexclusao": "Autoexclusão por CPF nas plataformas reguladas (Gov.br) bloqueia o acesso do apostador às casas .bet.br.",
+  "sus_caps": "SUS/CAPS — tratamento público para transtorno do jogo na rede de saúde mental.",
+  "jogadores_anonimos": "Jogadores Anônimos — grupos de apoio gratuitos para quem quer parar de apostar.",
+  "source": "SPA/MF (autoexclusão), Ministério da Saúde (CAPS), CVV, Jogadores Anônimos Brasil."
+ },
  "timeline": [
   {"date": "2018-12", "label_pt": "Lei 13.756 legaliza apostas de quota fixa", "label_en": "Law 13,756 legalises fixed-odds betting", "label_es": "Ley 13.756 legaliza apuestas de cuota fija", "kind": "law"},
   {"date": "2023-01", "label_pt": "Explosão do \"jogo do tigrinho\" e das bets", "label_en": "\"Tigrinho\" and bets go viral", "label_es": "Auge del \"tigrinho\" y las bets", "kind": "market"},

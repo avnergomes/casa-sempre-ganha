@@ -61,7 +61,7 @@ function seqBlue(t){ return mix("#2a2f42", C.blue, Math.max(0, Math.min(1, t)));
 var TXT = {};
 TXT.pt = {
   dir: "por proxy", of: "de", to: "a", read: "Como ler",
-  nav: { panorama: "Panorama", trajetoria: "Trajetória", conta: "A conta", matematica: "A perda", economia: "O vazio", custo: "O custo", geografia: "Geografia", dossie: "Dossiê", robustez: "Robustez", apendice: "Apêndice" },
+  nav: { panorama: "Panorama", trajetoria: "Trajetória", futebol: "Futebol", conta: "A conta", matematica: "A perda", economia: "O vazio", custo: "O custo", geografia: "Geografia", dossie: "Dossiê", robustez: "Robustez", apendice: "Apêndice" },
   hero: {
     kicker: "Apostas de quota fixa · Brasil · 2018–2026",
     sub: "The House Always Wins · La Banca Siempre Gana",
@@ -107,6 +107,22 @@ TXT.pt = {
       ],
       pull: "O acaso é o produto. A perda é o modelo de negócio."
     },
+    futebol: {
+      eyebrow: "O gancho da Copa", title: "O futebol é a vitrine e a isca",
+      lede: "Numa Copa, o futebol faz papel duplo: é o maior veículo de publicidade das apostas e, ao mesmo tempo, o principal objeto delas. Marca na camisa, anúncio na transmissão e o jogador como garoto-propaganda naturalizam a bet até ela virar parte do jogo.",
+      prose: [
+        "<span class='lead-in'>A camisa virou outdoor.</span> Na Série A de 2025, <b>18 dos 20 clubes</b> estampavam uma casa de apostas no uniforme. Os patrocínios de camisa ligados a bets subiram cerca de <b>125% em dois anos</b> e chegaram a <b>R$ 1,1 bilhão</b>, segundo levantamento do G1. O que era exceção virou padrão: hoje é mais raro um clube grande <i>sem</i> bet na camisa do que com.",
+        "O tamanho do apetite explica a agressividade da propaganda. Estimativas internacionais colocam o Brasil como o <b>5º maior mercado de apostas do mundo</b>. Numa Copa, esse mercado encontra a sua maior vitrine: cada transmissão vira ponto de venda, e a emoção do jogo é reembalada como gatilho para apostar. O futebol não só hospeda a bet, ele a legitima."
+      ],
+      cap: "<b>Patrocínio de bets na Série A, 2025.</b> Cada camisa é um clube da primeira divisão; as destacadas trazem uma casa de apostas no uniforme. Como ler: 18 de 20 é quase a liga inteira. A publicidade não está na margem do futebol, está no centro dele.",
+      stats: [
+        { v: "18 de 20", l: "clubes da Série A com bet na camisa", n: "G1, 2025", tone: "amber" },
+        { v: "R$ 1,1 bi", l: "em patrocínio de camisa", n: "+125% em 2 anos (G1, 2025)", tone: "" },
+        { v: "5º", l: "maior mercado de bets do mundo", n: "BBC/Regulus Partners, 2025", tone: "ink" },
+        { v: "Copa", l: "a maior vitrine da publicidade de bets", n: "transmissão vira ponto de venda", tone: "" }
+      ],
+      pull: "O jogo virou anúncio. O anúncio virou aposta."
+    },
     conta: {
       eyebrow: "Quem paga a conta", title: "A conta desce a renda",
       lede: "O jogo de risco não se distribui por igual. Ele se concentra onde o dinheiro é mais curto. Quanto menor a renda, maior a fatia de apostadores em uso arriscado. Este é o eixo moral do relatório.",
@@ -121,6 +137,8 @@ TXT.pt = {
         { v: "17%", l: "dos inscritos no CadÚnico apostaram", n: "Banco Central, EE119", tone: "amber" },
         { v: "55%", l: "dos adolescentes que apostam em risco", n: "faixa 14–17 anos (LENAD III)", tone: "" }
       ],
+      femme_title: "A perspectiva feminina",
+      femme: "O vício tem gênero nas duas pontas. Entre quem se afasta do trabalho por transtorno do jogo, cerca de <b>73% são homens</b> (INSS). Mas quando um homem da casa se vicia, é com frequência a mulher quem segura a barra: os filhos, as contas e a dívida. Entre quem se endivida apostando, a maioria são mulheres, e quase metade tem até 30 anos. Dar voz a essa experiência é um dos ângulos mais potentes da pauta.",
       pull: "Quanto mais curto o bolso, mais pesada a aposta."
     },
     matematica: {
@@ -168,7 +186,8 @@ TXT.pt = {
         { v: "R$ 30,6 bi", l: "de custo ligado à saúde por ano", n: "78,8% do custo social (IEPS)", tone: "" },
         { v: "R$ 17 bi", l: "atribuídos ao suicídio", n: "quase metade do custo total", tone: "" },
         { v: "+52%", l: "de mortes por suicídio 2015–2023", n: "SIM/DATASUS (X60–X84)", tone: "" },
-        { v: "537×", l: "custo ao SUS ante o repasse das bets", n: "R$ 30,6 bi vs. ~R$ 57 mi/ano", tone: "" }
+        { v: "537×", l: "custo ao SUS ante o repasse das bets", n: "R$ 30,6 bi vs. ~R$ 57 mi/ano", tone: "" },
+        { v: "+2.300%", l: "de alta em auxílios do INSS por ludopatia", n: "Intercept/INSS, 2025", tone: "" }
       ],
       pull: "A sorte é privada. O dano é público."
     },
@@ -196,6 +215,14 @@ TXT.pt = {
         { cls: "up", h: "PL 5473/2025", p: "Projeto propõe dobrar a alíquota sobre o GGR de 12% para 24%, aproximando a tributação do custo social. Ainda em tramitação." },
         { cls: "", h: "Autoexclusão", p: "A plataforma federal de autoexclusão (lançada em 10/12/2025) somou mais de 217 mil pedidos em 40 dias; 37% por perda de controle ligada à saúde mental." },
         { cls: "", h: "Modelo britânico", p: "Reino Unido: estimativa de custo pelo OHID, restrição de publicidade e taxa estatutária para prevenção e tratamento. Referência da metodologia do IEPS." }
+      ],
+      opiniao_title: "O país já decidiu",
+      opiniao_note: "Falar contra a indústria das bets não é remar contra a maré: é ser porta-voz de um consenso. Segundo a AtlasIntel (Latam Pulse, abr/2026), a ampla maioria do Brasil já enxerga o problema.",
+      opiniao_stats: [
+        { v: "86%", l: "consideram as bets nocivas à sociedade", n: "AtlasIntel, abr/2026", tone: "amber" },
+        { v: "70%", l: "apoiam a proibição total das apostas", n: "AtlasIntel, abr/2026", tone: "" },
+        { v: "76%", l: "querem limites para a publicidade de bets", n: "AtlasIntel, abr/2026", tone: "" },
+        { v: "85%", l: "associam as bets ao endividamento das famílias", n: "AtlasIntel, abr/2026", tone: "" }
       ],
       evid_title: "Evidência acadêmica",
       evid_lede: "Referências localizadas pelo protocolo de busca científica paper-lookup (k-dense scientific-agent-skills) sobre a base OpenAlex, cada uma com DOI verificado no OpenAlex e conferido no CrossRef, sem fabricação.",
@@ -229,12 +256,14 @@ TXT.pt = {
     method: "Metodologia: números transcritos das fontes primárias (SPA/MF, Banco Central EE119, IEPS, LENAD III/Unifesp) e coletados ao vivo via API com cache em disco (DATASUS/SIM e CNES por TABNET, IBGE/PNADC por SIDRA, Google Trends por pytrends). Modelo estatístico principal: simulação de Monte Carlo do saldo do apostador (RTP 93%, 20.000 trajetórias); complementos: decomposição sazonal STL e correlações de Spearman entre UFs com intervalo por bootstrap. Revisão de literatura pelo protocolo paper-lookup sobre a base OpenAlex, com DOI verificado.",
     sources: "Fontes: Secretaria de Prêmios e Apostas/Ministério da Fazenda; Banco Central do Brasil (Estudo Especial 119); IEPS, dossiê 'A saúde dos brasileiros em jogo'; LENAD III (Unifesp/INPAD e Ministério da Justiça); DATASUS (SIM, CNES); IBGE (PNAD Contínua); Google Trends.",
     offline: "Relatório autocontido e offline: todo o CSS, o JavaScript e os dados estão embutidos neste arquivo único, sem dependências externas em tempo de execução. Gerado em __DATE__.",
+    help_title: "Precisa de ajuda?",
+    help: "Se apostar deixou de ser escolha, procure apoio, sem vergonha. <b>CVV 188</b> (apoio emocional 24h, gratuito e sigiloso) · <b>autoexclusão por CPF</b> nas plataformas reguladas (Gov.br) · <b>SUS/CAPS</b> para tratamento do transtorno do jogo · <b>Jogadores Anônimos</b> para grupos de apoio.",
     disc: "Estudo de portfólio independente, sem vínculo com SPA, Banco Central, IEPS, Unifesp, DATASUS ou IBGE. As análises são do autor e não representam posição dessas instituições. Nada aqui é aconselhamento financeiro, jurídico ou de saúde."
   }
 };
 TXT.en = {
   dir: "by proxy", of: "of", to: "to", read: "How to read",
-  nav: { panorama: "Overview", trajetoria: "Trajectory", conta: "Who pays", matematica: "The loss", economia: "The void", custo: "The toll", geografia: "Geography", dossie: "Dossier", robustez: "Robustness", apendice: "Appendix" },
+  nav: { panorama: "Overview", trajetoria: "Trajectory", futebol: "Football", conta: "Who pays", matematica: "The loss", economia: "The void", custo: "The toll", geografia: "Geography", dossie: "Dossier", robustez: "Robustness", apendice: "Appendix" },
   hero: {
     kicker: "Fixed-odds betting · Brazil · 2018–2026",
     sub: "A Casa Sempre Ganha · La Banca Siempre Gana",
@@ -280,6 +309,22 @@ TXT.en = {
       ],
       pull: "Chance is the product. Loss is the business model."
     },
+    futebol: {
+      eyebrow: "The World Cup hook", title: "Football is the shop window and the bait",
+      lede: "In a World Cup, football plays a double role: it is the biggest advertising vehicle for betting and, at the same time, its main object. Shirt sponsors, in-broadcast ads and players as pitchmen normalize the bet until it becomes part of the game.",
+      prose: [
+        "<span class='lead-in'>The shirt became a billboard.</span> In Brazil's 2025 top flight, <b>18 of 20 clubs</b> wore a betting house on the jersey. Betting-linked shirt sponsorships rose about <b>125% in two years</b>, reaching <b>R$1.1 billion</b>, per a G1 survey. What was once the exception became the rule: a major club <i>without</i> a bet on its shirt is now rarer than one with it.",
+        "The size of the appetite explains the aggressiveness of the marketing. International estimates rank Brazil as the <b>5th largest betting market in the world</b>. In a World Cup, that market meets its widest shop window: every broadcast turns into a point of sale, and the thrill of the game is repackaged as a trigger to bet. Football does not just host the bet, it legitimizes it."
+      ],
+      cap: "<b>Betting sponsorship in Brazil's Série A, 2025.</b> Each shirt is a top-division club; the highlighted ones carry a betting house on the jersey. How to read: 18 of 20 is almost the whole league. The advertising is not at the edge of football, it is at its center.",
+      stats: [
+        { v: "18 of 20", l: "Série A clubs with a bet on the shirt", n: "G1, 2025", tone: "amber" },
+        { v: "R$1.1bn", l: "in shirt sponsorship", n: "+125% in 2 years (G1, 2025)", tone: "" },
+        { v: "5th", l: "largest betting market in the world", n: "BBC/Regulus Partners, 2025", tone: "ink" },
+        { v: "World Cup", l: "the widest window for bet advertising", n: "every broadcast a point of sale", tone: "" }
+      ],
+      pull: "The game became an ad. The ad became a bet."
+    },
     conta: {
       eyebrow: "Who pays the bill", title: "The bill runs down the income ladder",
       lede: "Risky gambling is not spread evenly. It concentrates where money is tightest. The lower the income, the larger the share of bettors in risky use. This is the moral axis of the report.",
@@ -294,6 +339,8 @@ TXT.en = {
         { v: "17%", l: "of CadÚnico registrants bet", n: "Central Bank, Special Study 119", tone: "amber" },
         { v: "55%", l: "of teen bettors in risky use", n: "ages 14–17 (LENAD III)", tone: "" }
       ],
+      femme_title: "The women's perspective",
+      femme: "Addiction is gendered at both ends. Among those signed off work for gambling disorder, about <b>73% are men</b> (INSS). But when a man in the household gets hooked, it is often the woman who holds everything together: the children, the bills and the debt. Among those who fall into debt from betting, most are women, and nearly half are under 30. Giving voice to that experience is one of the sharpest angles of the story.",
       pull: "The tighter the pocket, the heavier the wager."
     },
     matematica: {
@@ -341,7 +388,8 @@ TXT.en = {
         { v: "R$30.6bn", l: "health-related cost per year", n: "78.8% of the social cost (IEPS)", tone: "" },
         { v: "R$17bn", l: "attributed to suicide", n: "nearly half the total cost", tone: "" },
         { v: "+52%", l: "in suicide deaths 2015–2023", n: "SIM/DATASUS (X60–X84)", tone: "" },
-        { v: "537×", l: "cost to the health system vs. bets' transfer", n: "R$30.6bn vs. ~R$57M/year", tone: "" }
+        { v: "537×", l: "cost to the health system vs. bets' transfer", n: "R$30.6bn vs. ~R$57M/year", tone: "" },
+        { v: "+2,300%", l: "rise in INSS benefits for gambling disorder", n: "Intercept/INSS, 2025", tone: "" }
       ],
       pull: "The luck is private. The harm is public."
     },
@@ -369,6 +417,14 @@ TXT.en = {
         { cls: "up", h: "Bill 5473/2025", p: "The bill proposes doubling the rate on GGR from 12% to 24%, bringing taxation closer to the social cost. Still under debate." },
         { cls: "", h: "Self-exclusion", p: "The federal self-exclusion platform (launched 10 Dec 2025) gathered more than 217,000 requests in 40 days; 37% cited loss of control tied to mental health." },
         { cls: "", h: "The British model", p: "United Kingdom: cost estimate by OHID, advertising restrictions and a statutory levy for prevention and treatment. The reference for the IEPS methodology." }
+      ],
+      opiniao_title: "The country has already decided",
+      opiniao_note: "Speaking out against the betting industry is not rowing against the tide: it is voicing a consensus. According to AtlasIntel (Latam Pulse, Apr/2026), a wide majority of Brazil already sees the problem.",
+      opiniao_stats: [
+        { v: "86%", l: "consider betting harmful to society", n: "AtlasIntel, Apr/2026", tone: "amber" },
+        { v: "70%", l: "support a total ban on betting", n: "AtlasIntel, Apr/2026", tone: "" },
+        { v: "76%", l: "want limits on betting advertising", n: "AtlasIntel, Apr/2026", tone: "" },
+        { v: "85%", l: "link betting to household debt", n: "AtlasIntel, Apr/2026", tone: "" }
       ],
       evid_title: "Academic evidence",
       evid_lede: "References located by the paper-lookup scientific search protocol (k-dense scientific-agent-skills) over the OpenAlex base, each with a DOI verified in OpenAlex and confirmed in CrossRef, with no fabrication.",
@@ -402,12 +458,14 @@ TXT.en = {
     method: "Methodology: figures transcribed from primary sources (SPA/MF, Central Bank Special Study 119, IEPS, LENAD III/Unifesp) and collected live via API with on-disk caching (DATASUS/SIM and CNES via TABNET, IBGE/PNADC via SIDRA, Google Trends via pytrends). Main statistical model: Monte Carlo simulation of the bettor's bankroll (93% RTP, 20,000 paths); supplements: STL seasonal decomposition and Spearman correlations across states with bootstrap intervals. Literature review by the paper-lookup protocol over OpenAlex, with verified DOIs.",
     sources: "Sources: Betting Authority/Ministry of Finance; Central Bank of Brazil (Special Study 119); IEPS, dossier 'The health of Brazilians at stake'; LENAD III (Unifesp/INPAD and Ministry of Justice); DATASUS (SIM, CNES); IBGE (Continuous PNAD); Google Trends.",
     offline: "Self-contained, offline report: all CSS, JavaScript and data are embedded in this single file, with no external runtime dependencies. Generated on __DATE__.",
+    help_title: "Need help?",
+    help: "If betting has stopped being a choice, seek support, without shame. <b>CVV 188</b> (24h emotional support, free and confidential, in Brazil) · <b>CPF self-exclusion</b> on regulated platforms (Gov.br) · <b>SUS/CAPS</b> for gambling-disorder treatment · <b>Gamblers Anonymous</b> for support groups.",
     disc: "Independent portfolio study, with no affiliation to SPA, the Central Bank, IEPS, Unifesp, DATASUS or IBGE. The analyses are the author's and do not represent the position of those institutions. Nothing here is financial, legal or health advice."
   }
 };
 TXT.es = {
   dir: "por proxy", of: "de", to: "a", read: "Cómo leer",
-  nav: { panorama: "Panorama", trajetoria: "Trayectoria", conta: "Quién paga", matematica: "La pérdida", economia: "El vacío", custo: "El costo", geografia: "Geografía", dossie: "Dosier", robustez: "Robustez", apendice: "Apéndice" },
+  nav: { panorama: "Panorama", trajetoria: "Trayectoria", futebol: "Fútbol", conta: "Quién paga", matematica: "La pérdida", economia: "El vacío", custo: "El costo", geografia: "Geografía", dossie: "Dosier", robustez: "Robustez", apendice: "Apéndice" },
   hero: {
     kicker: "Apuestas de cuota fija · Brasil · 2018–2026",
     sub: "A Casa Sempre Ganha · The House Always Wins",
@@ -453,6 +511,22 @@ TXT.es = {
       ],
       pull: "El azar es el producto. La pérdida es el modelo de negocio."
     },
+    futebol: {
+      eyebrow: "El gancho del Mundial", title: "El fútbol es la vitrina y el cebo",
+      lede: "En un Mundial, el fútbol cumple un papel doble: es el mayor vehículo de publicidad de las apuestas y, al mismo tiempo, su principal objeto. Marca en la camiseta, anuncio en la transmisión y el jugador como imagen publicitaria naturalizan la apuesta hasta volverla parte del juego.",
+      prose: [
+        "<span class='lead-in'>La camiseta se volvió cartel.</span> En la Serie A brasileña de 2025, <b>18 de los 20 clubes</b> lucían una casa de apuestas en el uniforme. Los patrocinios de camiseta ligados a apuestas subieron cerca de <b>125% en dos años</b> y llegaron a <b>R$ 1,1 mil millones</b>, según un relevamiento de G1. Lo que era excepción se volvió norma: hoy es más raro un club grande <i>sin</i> apuesta en la camiseta que con ella.",
+        "El tamaño del apetito explica la agresividad de la publicidad. Estimaciones internacionales ubican a Brasil como el <b>5º mayor mercado de apuestas del mundo</b>. En un Mundial, ese mercado encuentra su mayor vitrina: cada transmisión se vuelve punto de venta, y la emoción del juego se reempaqueta como gatillo para apostar. El fútbol no solo aloja la apuesta, la legitima."
+      ],
+      cap: "<b>Patrocinio de apuestas en la Serie A brasileña, 2025.</b> Cada camiseta es un club de primera división; las destacadas llevan una casa de apuestas en el uniforme. Cómo leer: 18 de 20 es casi toda la liga. La publicidad no está al margen del fútbol, está en su centro.",
+      stats: [
+        { v: "18 de 20", l: "clubes de la Serie A con apuesta en la camiseta", n: "G1, 2025", tone: "amber" },
+        { v: "R$ 1,1 mm", l: "en patrocinio de camiseta", n: "+125% en 2 años (G1, 2025)", tone: "" },
+        { v: "5º", l: "mayor mercado de apuestas del mundo", n: "BBC/Regulus Partners, 2025", tone: "ink" },
+        { v: "Mundial", l: "la mayor vitrina de la publicidad de apuestas", n: "cada transmisión un punto de venta", tone: "" }
+      ],
+      pull: "El juego se volvió anuncio. El anuncio se volvió apuesta."
+    },
     conta: {
       eyebrow: "Quién paga la cuenta", title: "La cuenta baja por la renta",
       lede: "El juego de riesgo no se reparte por igual. Se concentra donde el dinero es más escaso. Cuanto menor la renta, mayor la porción de apostadores en uso arriesgado. Este es el eje moral del informe.",
@@ -467,6 +541,8 @@ TXT.es = {
         { v: "17%", l: "de los inscritos en CadÚnico apostó", n: "Banco Central, EE119", tone: "amber" },
         { v: "55%", l: "de los adolescentes que apuestan en riesgo", n: "tramo 14–17 años (LENAD III)", tone: "" }
       ],
+      femme_title: "La perspectiva femenina",
+      femme: "La adicción tiene género en las dos puntas. Entre quienes se ausentan del trabajo por trastorno del juego, cerca del <b>73% son hombres</b> (INSS). Pero cuando un hombre de la casa se vuelve adicto, suele ser la mujer quien sostiene todo: los hijos, las cuentas y la deuda. Entre quienes se endeudan apostando, la mayoría son mujeres, y casi la mitad tiene hasta 30 años. Dar voz a esa experiencia es uno de los ángulos más potentes del tema.",
       pull: "Cuanto más corto el bolsillo, más pesada la apuesta."
     },
     matematica: {
@@ -514,7 +590,8 @@ TXT.es = {
         { v: "R$ 30,6 mm", l: "de costo ligado a la salud al año", n: "78,8% del costo social (IEPS)", tone: "" },
         { v: "R$ 17 mm", l: "atribuidos al suicidio", n: "casi la mitad del costo total", tone: "" },
         { v: "+52%", l: "de muertes por suicidio 2015–2023", n: "SIM/DATASUS (X60–X84)", tone: "" },
-        { v: "537×", l: "costo al SUS ante el aporte de las apuestas", n: "R$ 30,6 mm vs. ~R$ 57 mi/año", tone: "" }
+        { v: "537×", l: "costo al SUS ante el aporte de las apuestas", n: "R$ 30,6 mm vs. ~R$ 57 mi/año", tone: "" },
+        { v: "+2.300%", l: "de alza en subsidios del INSS por ludopatía", n: "Intercept/INSS, 2025", tone: "" }
       ],
       pull: "La suerte es privada. El daño es público."
     },
@@ -542,6 +619,14 @@ TXT.es = {
         { cls: "up", h: "PL 5473/2025", p: "El proyecto propone duplicar la tasa sobre el GGR del 12% al 24%, acercando la tributación al costo social. Aún en trámite." },
         { cls: "", h: "Autoexclusión", p: "La plataforma federal de autoexclusión (lanzada el 10/12/2025) sumó más de 217 mil pedidos en 40 días; 37% por pérdida de control ligada a la salud mental." },
         { cls: "", h: "El modelo británico", p: "Reino Unido: estimación de costo por el OHID, restricción de publicidad y tasa estatutaria para prevención y tratamiento. Referencia de la metodología del IEPS." }
+      ],
+      opiniao_title: "El país ya decidió",
+      opiniao_note: "Hablar contra la industria de las apuestas no es remar contra la corriente: es ser portavoz de un consenso. Según AtlasIntel (Latam Pulse, abr/2026), una amplia mayoría de Brasil ya ve el problema.",
+      opiniao_stats: [
+        { v: "86%", l: "consideran las apuestas nocivas para la sociedad", n: "AtlasIntel, abr/2026", tone: "amber" },
+        { v: "70%", l: "apoyan la prohibición total de las apuestas", n: "AtlasIntel, abr/2026", tone: "" },
+        { v: "76%", l: "quieren límites a la publicidad de apuestas", n: "AtlasIntel, abr/2026", tone: "" },
+        { v: "85%", l: "asocian las apuestas al endeudamiento familiar", n: "AtlasIntel, abr/2026", tone: "" }
       ],
       evid_title: "Evidencia académica",
       evid_lede: "Referencias localizadas por el protocolo de búsqueda científica paper-lookup (k-dense scientific-agent-skills) sobre la base OpenAlex, cada una con DOI verificado en OpenAlex y confirmado en CrossRef, sin fabricación.",
@@ -575,6 +660,8 @@ TXT.es = {
     method: "Metodología: cifras transcritas de las fuentes primarias (SPA/MF, Banco Central EE119, IEPS, LENAD III/Unifesp) y recolectadas en vivo por API con caché en disco (DATASUS/SIM y CNES por TABNET, IBGE/PNADC por SIDRA, Google Trends por pytrends). Modelo estadístico principal: simulación de Monte Carlo del saldo del apostador (RTP 93%, 20.000 trayectorias); complementos: descomposición estacional STL y correlaciones de Spearman entre estados con intervalo por bootstrap. Revisión de literatura por el protocolo paper-lookup sobre la base OpenAlex, con DOI verificado.",
     sources: "Fuentes: Secretaría de Premios y Apuestas/Ministerio de Hacienda; Banco Central de Brasil (Estudio Especial 119); IEPS, dosier 'La salud de los brasileños en juego'; LENAD III (Unifesp/INPAD y Ministerio de Justicia); DATASUS (SIM, CNES); IBGE (PNAD Continua); Google Trends.",
     offline: "Informe autocontenido y sin conexión: todo el CSS, el JavaScript y los datos están incrustados en este único archivo, sin dependencias externas en tiempo de ejecución. Generado el __DATE__.",
+    help_title: "¿Necesitas ayuda?",
+    help: "Si apostar dejó de ser una elección, busca apoyo, sin vergüenza. <b>CVV 188</b> (apoyo emocional 24h, gratuito y confidencial, en Brasil) · <b>autoexclusión por CPF</b> en las plataformas reguladas (Gov.br) · <b>SUS/CAPS</b> para tratamiento del trastorno del juego · <b>Jugadores Anónimos</b> para grupos de apoyo.",
     disc: "Estudio de portafolio independiente, sin vínculo con SPA, Banco Central, IEPS, Unifesp, DATASUS o IBGE. Los análisis son del autor y no representan la posición de esas instituciones. Nada aquí es asesoría financiera, jurídica o de salud."
   }
 };
@@ -644,10 +731,17 @@ function buildSections() {
     figure("c-stl", S.trajetoria.cap_stl) +
     '<div class="pull">' + S.trajetoria.pull + "</div></div></section>");
 
+  // 2b Futebol e bets (o gancho da Copa)
+  h.push('<section id="futebol" class="alt"><div class="wrap">' + head(S.futebol) +
+    figure("c-fut", S.futebol.cap) + prose(S.futebol.prose) +
+    statCards(S.futebol.stats) + '<div class="pull">' + S.futebol.pull + "</div></div></section>");
+
   // 3 Quem paga
   h.push('<section id="conta"><div class="wrap">' + head(S.conta) +
     figure("c-income", S.conta.cap) + prose(S.conta.prose) +
-    statCards(S.conta.stats) + '<div class="pull">' + S.conta.pull + "</div></div></section>");
+    statCards(S.conta.stats) +
+    '<div class="callout"><b>' + S.conta.femme_title + ".</b> " + S.conta.femme + "</div>" +
+    '<div class="pull">' + S.conta.pull + "</div></div></section>");
 
   // 4 Matemática
   h.push('<section id="matematica" class="alt"><div class="wrap">' + head(S.matematica) +
@@ -682,6 +776,9 @@ function buildSections() {
   }).join("") + "</div>";
   h.push('<section id="dossie" class="dossie"><div class="wrap">' + head(S.dossie) +
     prose(S.dossie.prose) + scn +
+    '<h2 style="font-size:clamp(20px,2.6vw,26px);margin:42px 0 4px">' + S.dossie.opiniao_title + "</h2>" +
+    '<p class="lede" style="max-width:80ch;font-size:14.5px">' + S.dossie.opiniao_note + "</p>" +
+    statCards(S.dossie.opiniao_stats) +
     '<h2 style="font-size:clamp(20px,2.6vw,26px);margin:42px 0 4px">' + S.dossie.evid_title + "</h2>" +
     '<p class="lede" style="max-width:80ch;font-size:14.5px">' + S.dossie.evid_lede + "</p>" +
     '<ol class="refs" id="refs"></ol>' +
@@ -826,6 +923,40 @@ function chartSTL() {
   timeSeries("c-stl", series, { h: 260, maxY: 100 });
 }
 
+function jerseyPath(cx, y, s) {
+  var w = 15 * s, sh = 6 * s, bh = 40 * s, coll = 5 * s;
+  return "M" + (cx - w) + "," + (y + sh) +
+    " L" + (cx - w - 6 * s) + "," + (y + sh + 9 * s) +
+    " L" + (cx - w + 2 * s) + "," + (y + sh + 17 * s) +
+    " L" + (cx - w + 5 * s) + "," + (y + sh + 13 * s) +
+    " L" + (cx - w + 5 * s) + "," + (y + bh) +
+    " L" + (cx + w - 5 * s) + "," + (y + bh) +
+    " L" + (cx + w - 5 * s) + "," + (y + sh + 13 * s) +
+    " L" + (cx + w - 2 * s) + "," + (y + sh + 17 * s) +
+    " L" + (cx + w + 6 * s) + "," + (y + sh + 9 * s) +
+    " L" + (cx + w) + "," + (y + sh) +
+    " L" + (cx + coll) + "," + (y + sh) +
+    " Q" + cx + "," + (y + sh + 6 * s) + " " + (cx - coll) + "," + (y + sh) + " Z";
+}
+function chartFut() {
+  var f = frame("c-fut", 720, 230); if (!f) return;
+  var fb = (M && M.futebol) || {};
+  var total = fb.clubes_serie_a_total || 20, on = fb.clubes_serie_a_com_bet || 18;
+  var cols = 10, cw = 720 / cols, s = 1.15;
+  f.s.appendChild(txt(24, 22, { pt: "Clubes da Série A com uma casa de apostas na camisa (2025)", en: "Série A clubs with a betting house on the shirt (2025)", es: "Clubes de la Serie A con una casa de apuestas en la camiseta (2025)" }[LANG], "g-note", { fill: C.mut }));
+  for (var i = 0; i < total; i++) {
+    var col = i % cols, row = Math.floor(i / cols);
+    var cx = cw * col + cw / 2, y = 40 + row * 82, lit = i < on;
+    f.s.appendChild(pathEl(jerseyPath(cx, y, s), { fill: lit ? C.amber : C.paper2, stroke: lit ? "#12131a" : C.line, "stroke-width": lit ? 1 : 1, opacity: lit ? .95 : .8 }));
+    if (lit) f.s.appendChild(rect(cx - 6 * s, y + 20 * s, 12 * s, 8 * s, "#12131a", { rx: 1.5 }));
+  }
+  var ly = 40 + 2 * 82 - 2;
+  f.s.appendChild(pathEl(jerseyPath(38, ly, .8), { fill: C.amber, stroke: "#12131a", "stroke-width": 1, opacity: .95 }));
+  f.s.appendChild(txt(60, ly + 30, { pt: "com bet (" + on + ")", en: "with a bet (" + on + ")", es: "con apuesta (" + on + ")" }[LANG], "glabel", { fill: C.ink2, "font-size": 12 }));
+  f.s.appendChild(pathEl(jerseyPath(200, ly, .8), { fill: C.paper2, stroke: C.line, "stroke-width": 1, opacity: .8 }));
+  f.s.appendChild(txt(222, ly + 30, { pt: "sem bet (" + (total - on) + ")", en: "without (" + (total - on) + ")", es: "sin apuesta (" + (total - on) + ")" }[LANG], "glabel", { fill: C.mut, "font-size": 12 }));
+  f.s.appendChild(txt(720 - 24, ly + 30, on + " / " + total, "glabel", { "text-anchor": "end", fill: C.amber, "font-weight": "700", "font-size": 20, "font-style": "italic" }));
+}
 function chartIncome() {
   var f = frame("c-income", 720, 300); if (!f) return;
   var g = (M && M.lenad && M.lenad.income_gradient) || [];
@@ -1028,7 +1159,7 @@ function renderTable() {
 }
 
 function renderCharts() {
-  chartFunnel(); chartTraj(); chartSTL(); chartIncome(); chartMC();
+  chartFunnel(); chartTraj(); chartSTL(); chartFut(); chartIncome(); chartMC();
   chartSplit(); chartSuic(); chartCost(); chartMap(); chartCorr();
   chartInclExcl(); renderRefs(); renderTable();
 }
