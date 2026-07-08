@@ -1050,7 +1050,8 @@ function init() {
     var h = document.documentElement, sc = h.scrollTop / (h.scrollHeight - h.clientHeight);
     document.getElementById("prog").style.width = (sc * 100) + "%";
   }, { passive: true });
-  setLang("pt");
+  var hash = (location.hash || "").replace("#", "").toLowerCase();
+  setLang(hash === "en" || hash === "es" || hash === "pt" ? hash : "pt");
 }
 if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
 })();
